@@ -1,0 +1,3455 @@
+\t (00:00:17) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:17)     Journal start - Mon Dec 08 20:46:49 2025
+\t (00:00:17)         Host=DESKTOP-20R9FQ2 User=David Pid=19968 CPUs=16
+\t (00:00:17) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:17) 
+\d (00:00:17) Design opened: C:/Users/David/OneDrive/Desktop/P1_2025_431B_Mutuleasa_David_Andrei_/Schematic/allegro/SCH_TRANSFER.brd
+\i (00:00:17) generaledit 
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 20.6031 14.2503
+\i (00:00:17) trapsize 2775
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20.6031 14.2504
+\i (00:00:18) trapsize 1388
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 21.2691 14.6389
+\i (00:00:18) trapsize 2775
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 22.8232 19.4674
+\i (00:00:19) trapsize 1388
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 22.8232 19.5229
+\i (00:00:19) trapsize 694
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 22.8094 19.4952
+\i (00:00:20) trapsize 347
+\i (00:00:24) color192 
+\i (00:00:24) setwindow cvf.dialog
+\i (00:00:24) cvf layer_mode
+\i (00:00:24) setwindow pcb
+\i (00:00:24) generaledit 
+\i (00:00:25) setwindow cvf.dialog
+\i (00:00:25) cvf layer_tree_item 'Package Geometry'
+\i (00:00:27) cvf layer_tree_item 'Display'
+\i (00:00:28) cvf layer_tree_item 'Stack-Up'
+\i (00:00:30) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:00:31) cvf apply
+\i (00:00:31) cvf okay
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 21.8937 19.1969
+\i (00:00:32) trapsize 694
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 22.1018 20.6538
+\i (00:00:33) trapsize 347
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 22.2753 20.5637
+\i (00:00:33) trapsize 173
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 22.5390 19.7485
+\i (00:00:38) trapsize 347
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 23.1980 19.1936
+\i (00:00:39) trapsize 694
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 23.4061 18.1668
+\i (00:00:40) trapsize 347
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 23.3992 18.1598
+\i (00:00:40) trapsize 694
+\i (00:00:42) drag_start grid 19.1119 21.5454
+\i (00:00:42) move 
+\t (00:00:42) last pick:  20.1000 22.0000
+\t (00:00:42) Moving Q4 / QBC856B_0_TO236AA_QBC856B / TO236AA.
+\t (00:00:42) Pick new location for the element(s).
+\i (00:00:43) drag_stop grid 19.2922 21.5731
+\i (00:00:43) generaledit 
+\i (00:00:45) undo 
+\i (00:00:45) trapsize 694
+\i (00:00:45) generaledit 
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 26.2298 21.5038
+\i (00:01:14) trapsize 1388
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 26.3130 21.7535
+\i (00:01:14) trapsize 2775
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 26.8125 22.2530
+\i (00:01:15) trapsize 1388
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 27.3675 25.0280
+\i (00:01:16) trapsize 694
+\i (00:01:17) roam x 96 
+\i (00:01:17) roam x 96
+\i (00:01:18) roam x 96 
+\i (00:01:18) roam x 96
+\i (00:01:18) roam y -96 
+\i (00:01:18) roam y -96
+\i (00:01:18) roam y -96 
+\i (00:01:18) roam y -96
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 27.5955 25.6063
+\i (00:01:19) trapsize 347
+\i (00:01:21) shapeedit 
+\i (00:01:22) drag_start grid 27.4221 25.7173
+\i (00:01:22) drag shape main 
+\i (00:01:24) drag_stop grid 27.4082 25.4675
+\i (00:01:24) shapeedit 
+\i (00:01:25) drag_start grid 28.8096 25.7450
+\i (00:01:25) drag shape main 
+\i (00:01:26) drag_stop grid 28.7749 25.4745
+\i (00:01:26) shapeedit 
+\i (00:01:27) drag_start grid 29.1218 26.2029
+\i (00:01:27) drag shape main 
+\i (00:01:27) drag_stop grid 29.3576 26.2237
+\i (00:01:27) shapeedit 
+\i (00:01:28) drag_start grid 28.6570 26.6538
+\i (00:01:28) drag shape main 
+\i (00:01:30) drag_stop grid 28.6015 26.9105
+\i (00:01:30) shapeedit 
+\i (00:01:30) roam y -96 
+\i (00:01:30) roam y -96
+\i (00:01:30) roam y -96 
+\i (00:01:30) roam y -96
+\i (00:01:31) roam y -96 
+\i (00:01:31) roam y -96
+\i (00:01:32) drag_start grid 29.1148 28.0691
+\i (00:01:32) drag shape main 
+\i (00:01:32) drag_stop grid 29.3993 28.0830
+\i (00:01:32) shapeedit 
+\i (00:01:33) drag_start grid 28.8235 27.7847
+\i (00:01:33) drag shape main 
+\i (00:01:33) drag_stop grid 28.8235 27.5627
+\i (00:01:33) shapeedit 
+\i (00:01:34) drag_start grid 28.3656 28.7351
+\i (00:01:34) drag shape main 
+\i (00:01:35) drag_stop grid 28.3517 28.9849
+\i (00:01:35) shapeedit 
+\i (00:01:35) drag_start grid 27.4776 28.7282
+\i (00:01:36) drag_stop 27.4221 28.8253
+\i (00:01:36) drag_start grid 27.3874 28.7629
+\i (00:01:36) drag shape main 
+\i (00:01:38) drag_stop grid 27.3596 28.9849
+\i (00:01:38) shapeedit 
+\i (00:01:40) drag_start grid 26.4508 27.7153
+\i (00:01:40) drag shape main 
+\i (00:01:41) drag_stop grid 26.4092 27.9651
+\i (00:01:41) shapeedit 
+\i (00:01:41) drag_start grid 25.7224 27.6113
+\i (00:01:41) drag shape main 
+\i (00:01:42) drag_stop grid 25.4865 27.5488
+\i (00:01:42) shapeedit 
+\i (00:01:43) drag_start grid 26.2566 26.7441
+\i (00:01:43) drag shape main 
+\i (00:01:43) drag_stop grid 26.2288 26.5221
+\i (00:01:43) shapeedit 
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out 25.1882 26.8204
+\i (00:01:44) trapsize 694
+\i (00:01:44) zoom out 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom out 25.1882 26.8204
+\i (00:01:44) trapsize 1388
+\i (00:01:45) pick grid 23.5509 26.1543
+\t (00:01:45) last pick:  23.5500 26.1500
+\i (00:01:47) roam y -96 
+\i (00:01:47) roam y -96
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 36.6212 36.4704
+\i (00:01:48) trapsize 694
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 36.6906 36.2485
+\i (00:01:48) trapsize 347
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 36.3993 35.8323
+\i (00:01:48) trapsize 173
+\i (00:01:49) pick grid 36.0698 35.7664
+\t (00:01:49) last pick:  36.0700 35.7700
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 36.0593 35.7560
+\i (00:01:49) trapsize 347
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 36.0733 35.7769
+\i (00:01:49) trapsize 694
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 29.8017 35.6936
+\i (00:01:51) trapsize 347
+\i (00:01:51) roam y 96 
+\i (00:01:51) roam y 96
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out 29.9196 34.8401
+\i (00:01:52) trapsize 694
+\i (00:01:52) roam x -96 
+\i (00:01:52) roam x -96
+\i (00:01:53) roam x -96 
+\i (00:01:53) roam x -96
+\i (00:01:53) roam x -96 
+\i (00:01:53) roam x -96
+\i (00:01:53) roam x -96 
+\i (00:01:53) roam x -96
+\i (00:01:53) roam x -96 
+\i (00:01:53) roam x -96
+\i (00:01:54) roam x -96 
+\i (00:01:54) roam x -96
+\i (00:01:54) roam x -96 
+\i (00:01:54) roam x -96
+\i (00:01:54) roam x -96 
+\i (00:01:54) roam x -96
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 18.8682 35.8808
+\i (00:01:54) trapsize 1388
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 18.8404 35.7698
+\i (00:01:54) trapsize 2775
+\i (00:01:54) roam x -96 
+\i (00:01:54) roam x -96
+\i (00:01:55) roam x -96 
+\i (00:01:55) roam x -96
+\i (00:01:55) roam x -96 
+\i (00:01:55) roam x -96
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 10.3769 32.7728
+\i (00:01:55) trapsize 1388
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 11.0429 32.6618
+\i (00:01:55) trapsize 694
+\i (00:01:55) roam x -96 
+\i (00:01:55) roam x -96
+\i (00:01:57) prepopup 13.1239 34.2020
+\i (00:01:58) pick grid 11.3340 34.0355
+\t (00:01:58) last pick:  11.3300 34.0400
+\i (01:05:06) zoom out 1 
+\i (01:05:06) setwindow pcb
+\i (01:05:06) zoom out 11.4450 30.8026
+\i (01:05:06) trapsize 1388
+\i (01:05:06) zoom out 1 
+\i (01:05:06) setwindow pcb
+\i (01:05:06) zoom out 11.6115 31.2743
+\i (01:05:06) trapsize 2775
+\i (01:05:06) zoom in 1 
+\i (01:05:06) setwindow pcb
+\i (01:05:06) zoom in 12.6660 32.8283
+\i (01:05:06) trapsize 1388
+\i (01:05:08) zoom in 1 
+\i (01:05:08) setwindow pcb
+\i (01:05:08) zoom in 25.7918 37.5736
+\i (01:05:08) trapsize 694
+\i (01:05:08) zoom in 1 
+\i (01:05:08) setwindow pcb
+\i (01:05:08) zoom in 25.8196 37.6152
+\i (01:05:08) trapsize 347
+\i (01:05:09) pick grid 25.8127 36.9839
+\t (01:05:09) last pick:  25.8100 36.9800
+\i (01:05:09) pick grid 25.8682 37.3446
+\t (01:05:09) last pick:  25.8700 37.3400
+\i (01:05:13) setwindow form.find
+\i (01:05:13) FORM find all_on  
+\i (01:05:15) setwindow pcb
+\i (01:05:15) pick grid 25.8612 37.6915
+\t (01:05:15) last pick:  25.8600 37.6900
+\i (01:05:18) roam x 96 
+\i (01:05:18) roam x 96
+\i (01:05:18) roam x 96 
+\i (01:05:18) roam x 96
+\i (01:05:18) roam x 96 
+\i (01:05:18) roam x 96
+\i (01:05:19) roam x 96 
+\i (01:05:19) roam x 96
+\i (01:05:19) shape select 
+\i (01:05:20) pick grid 25.7779 37.7123
+\t (01:05:20) last pick:  25.7800 37.7100
+\i (01:05:20) pick grid 25.8889 37.7262
+\t (01:05:20) last pick:  25.8900 37.7300
+\i (01:05:21) pick grid 21.6362 37.4210
+\t (01:05:21) last pick:  21.6400 37.4200
+\i (01:05:22) shape select 
+\i (01:05:22) pick grid 21.6639 37.5250
+\t (01:05:22) last pick:  21.6600 37.5300
+\i (01:05:24) pick grid 25.4726 37.6776
+\t (01:05:24) last pick:  25.4700 37.6800
+\i (01:05:25) prepopup 24.7581 37.8164
+\i (01:05:26) cancel 
+\i (01:05:26) shapeedit 
+\i (01:05:26) pick grid 26.0138 38.0453
+\t (01:05:26) last pick:  26.0100 38.0500
+\i (01:05:31) shape edit boundary 
+\i (01:05:31) pick grid 26.0068 37.9690
+\t (01:05:31) last pick:  26.0100 37.9700
+\i (01:05:32) pick grid 25.8195 37.9621
+\t (01:05:32) last pick:  25.8200 37.9600
+\i (01:05:33) setwindow form.find
+\i (01:05:33) FORM find all_on  
+\i (01:05:34) setwindow pcb
+\i (01:05:34) pick grid 25.8264 37.6568
+\t (01:05:34) last pick:  25.8300 37.6600
+\i (01:05:35) shape add 
+\i (01:05:36) shapeedit 
+\i (01:05:36) shapeedit 
+\i (01:05:50) pick grid 25.5767 38.0245
+\t (01:05:50) last pick:  25.5800 38.0200
+\i (01:05:50) pick grid 25.7918 37.9343
+\t (01:05:50) last pick:  25.7900 37.9300
+\i (01:05:50) zoom out 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom out 28.1505 36.9423
+\i (01:05:50) trapsize 694
+\i (01:05:51) zoom out 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom out 26.2219 36.7757
+\i (01:05:51) trapsize 1388
+\i (01:05:51) zoom out 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom out 26.2219 35.8600
+\i (01:05:51) trapsize 2775
+\i (01:05:51) zoom out 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom out 26.2219 35.5271
+\i (01:05:51) trapsize 5550
+\i (01:05:52) zoom in 1 
+\i (01:05:52) setwindow pcb
+\i (01:05:52) zoom in 8.5728 26.8690
+\i (01:05:52) trapsize 2775
+\i (01:05:52) zoom in 1 
+\i (01:05:52) setwindow pcb
+\i (01:05:52) zoom in 8.5729 26.8690
+\i (01:05:52) trapsize 1388
+\i (01:05:52) zoom in 1 
+\i (01:05:52) setwindow pcb
+\i (01:05:52) zoom in 9.0724 26.8968
+\i (01:05:52) trapsize 694
+\i (01:05:52) roam y 96 
+\i (01:05:52) roam y 96
+\i (01:05:52) zoom in 1 
+\i (01:05:52) setwindow pcb
+\i (01:05:52) zoom in 9.0863 25.6618
+\i (01:05:52) trapsize 347
+\i (01:05:53) zoom in 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom in 10.4322 26.6053
+\i (01:05:53) trapsize 173
+\i (01:05:53) roam x 96 
+\i (01:05:53) roam x 96
+\i (01:05:53) zoom out 1 
+\i (01:05:54) setwindow pcb
+\i (01:05:54) zoom out 10.8033 26.9210
+\i (01:05:54) trapsize 347
+\i (01:05:54) roam y -96 
+\i (01:05:54) roam y -96
+\i (01:05:54) roam x 96 
+\i (01:05:54) roam x 96
+\i (01:05:54) roam x 96 
+\i (01:05:54) roam x 96
+\i (01:05:54) roam x 96 
+\i (01:05:54) roam x 96
+\i (01:05:55) roam x 96 
+\i (01:05:55) roam x 96
+\i (01:05:55) roam x 96 
+\i (01:05:55) roam x 96
+\i (01:05:56) drag_start grid 14.0050 26.8481
+\i (01:05:56) drag shape main 
+\i (01:05:57) drag_stop grid 13.9148 27.0354
+\i (01:05:58) shapeedit 
+\i (01:05:58) drag_start grid 13.7066 26.7856
+\i (01:05:58) drag shape main 
+\i (01:06:00) drag_stop grid 13.4708 26.7232
+\i (01:06:00) shapeedit 
+\i (01:06:01) drag_start grid 14.1576 25.9254
+\i (01:06:01) drag shape main 
+\i (01:06:02) drag_stop grid 14.1784 25.7034
+\i (01:06:02) shapeedit 
+\i (01:06:02) roam x 96 
+\i (01:06:02) roam x 96
+\i (01:06:02) roam x 96 
+\i (01:06:02) roam x 96
+\i (01:06:03) drag_start grid 16.4886 26.9313
+\i (01:06:03) drag shape main 
+\i (01:06:04) drag_stop grid 16.4955 26.7648
+\i (01:06:04) shapeedit 
+\i (01:06:05) drag_start grid 17.0297 27.3753
+\i (01:06:05) drag shape main 
+\i (01:06:06) drag_stop grid 17.2309 27.3961
+\i (01:06:06) shapeedit 
+\i (01:06:06) drag_start grid 16.2041 27.8818
+\i (01:06:06) drag shape main 
+\i (01:06:07) drag_stop grid 16.2111 28.0829
+\i (01:06:07) shapeedit 
+\i (01:06:08) drag_start grid 15.5728 27.8956
+\i (01:06:08) drag shape main 
+\i (01:06:10) drag_stop grid 15.6075 28.0829
+\i (01:06:10) shapeedit 
+\i (01:06:10) roam y 96 
+\i (01:06:10) roam y 96
+\i (01:06:11) roam y 96 
+\i (01:06:11) roam y 96
+\i (01:06:12) drag_start grid 17.0575 25.7936
+\i (01:06:12) drag shape main 
+\i (01:06:12) drag_stop grid 17.2170 25.7866
+\i (01:06:12) shapeedit 
+\i (01:06:13) drag_start grid 17.0297 25.7797
+\i (01:06:13) drag shape main 
+\i (01:06:13) drag_stop grid 17.0436 25.9601
+\i (01:06:13) shapeedit 
+\i (01:06:14) drag_start grid 16.8355 24.9056
+\i (01:06:14) drag shape main 
+\i (01:06:15) drag_stop grid 16.8424 24.7113
+\i (01:06:15) shapeedit 
+\i (01:06:15) drag_start grid 15.7046 24.8848
+\i (01:06:15) drag shape main 
+\i (01:06:23) zoom in 1 
+\i (01:06:23) setwindow pcb
+\i (01:06:23) zoom in 15.7532 24.7183
+\i (01:06:23) trapsize 173
+\i (01:06:25) drag_stop grid 15.7706 24.7149
+\i (01:06:25) shapeedit 
+\i (01:06:25) zoom out 1 
+\i (01:06:25) setwindow pcb
+\i (01:06:25) zoom out 15.7498 24.7183
+\i (01:06:25) trapsize 347
+\i (01:06:25) zoom out 1 
+\i (01:06:25) setwindow pcb
+\i (01:06:25) zoom out 15.7498 24.7322
+\i (01:06:25) trapsize 694
+\i (01:06:26) zoom in 1 
+\i (01:06:26) setwindow pcb
+\i (01:06:26) zoom in 12.1422 25.3428
+\i (01:06:26) trapsize 347
+\i (01:06:28) drag_start grid 13.0163 27.0355
+\i (01:06:28) drag shape main 
+\i (01:06:28) drag_stop grid 13.1204 27.0147
+\i (01:06:28) shapeedit 
+\i (01:06:29) drag_start grid 12.8915 26.8968
+\i (01:06:29) drag shape main 
+\i (01:06:30) drag_stop grid 12.9470 26.7858
+\i (01:06:30) shapeedit 
+\i (01:06:31) drag_start grid 13.1273 27.0078
+\i (01:06:31) drag shape main 
+\i (01:06:32) drag_stop grid 13.1620 26.9939
+\i (01:06:32) shapeedit 
+\i (01:06:33) drag_start grid 12.8360 26.8066
+\i (01:06:33) drag shape main 
+\i (01:06:33) drag_stop grid 12.8568 26.7511
+\i (01:06:33) shapeedit 
+\i (01:06:34) drag_start grid 12.8082 25.7660
+\i (01:06:34) drag shape main 
+\i (01:06:34) drag_stop grid 12.8915 25.9394
+\i (01:06:34) shapeedit 
+\i (01:06:35) drag_start grid 13.0163 25.8076
+\i (01:06:35) drag shape main 
+\i (01:06:35) drag_stop grid 13.1551 25.7868
+\i (01:06:35) shapeedit 
+\i (01:06:36) drag_start grid 12.6903 24.8086
+\i (01:06:36) drag shape main 
+\i (01:06:36) drag_stop grid 12.7319 24.6143
+\i (01:06:36) shapeedit 
+\i (01:06:37) drag_start grid 11.5803 24.8363
+\i (01:06:37) drag shape main 
+\i (01:06:38) drag_stop grid 11.5733 24.6213
+\i (01:06:38) shapeedit 
+\i (01:06:39) drag_start grid 10.4148 25.8492
+\i (01:06:39) drag shape main 
+\i (01:06:40) drag_stop grid 10.4078 25.7035
+\i (01:06:40) shapeedit 
+\i (01:06:40) drag_start grid 9.5961 26.2516
+\i (01:06:40) drag shape main 
+\i (01:06:41) drag_stop grid 9.4366 26.2724
+\i (01:06:41) shapeedit 
+\i (01:06:42) drag_start grid 10.0887 26.8760
+\i (01:06:42) drag_stop 10.1165 26.9939
+\i (01:06:43) drag_start grid 10.0540 26.8552
+\i (01:06:43) drag shape main 
+\i (01:06:43) drag_stop grid 10.0818 26.9870
+\i (01:06:44) shapeedit 
+\i (01:06:44) roam y -96 
+\i (01:06:44) roam y -96
+\i (01:06:44) roam y -96 
+\i (01:06:44) roam y -96
+\i (01:06:45) drag_start grid 11.4554 27.9026
+\i (01:06:45) drag shape main 
+\i (01:06:45) drag_stop grid 11.4832 28.0206
+\i (01:06:45) shapeedit 
+\i (01:06:46) drag_start grid 12.4752 27.8471
+\i (01:06:46) drag shape main 
+\i (01:06:48) drag_stop grid 12.5238 28.0206
+\i (01:06:48) shapeedit 
+\i (01:06:48) zoom out 1 
+\i (01:06:48) setwindow pcb
+\i (01:06:48) zoom out 11.7398 27.4309
+\i (01:06:48) trapsize 694
+\i (01:06:49) pick grid 7.9797 26.7232
+\t (01:06:49) last pick:  7.9800 26.7200
+\i (01:06:51) roam x 96 
+\i (01:06:51) roam x 96
+\i (01:06:51) roam x 96 
+\i (01:06:51) roam x 96
+\i (01:06:51) roam x 96 
+\i (01:06:51) roam x 96
+\i (01:06:51) roam x 96 
+\i (01:06:51) roam x 96
+\i (01:06:51) roam x 96 
+\i (01:06:51) roam x 96
+\i (01:06:52) roam x 96 
+\i (01:06:52) roam x 96
+\i (01:06:52) roam x 96 
+\i (01:06:52) roam x 96
+\i (01:06:52) roam x 96 
+\i (01:06:52) roam x 96
+\i (01:06:52) roam x 96 
+\i (01:06:52) roam x 96
+\i (01:06:52) roam x 96 
+\i (01:06:52) roam x 96
+\i (01:06:53) roam x 96 
+\i (01:06:53) roam x 96
+\i (01:06:53) zoom out 1 
+\i (01:06:53) setwindow pcb
+\i (01:06:53) zoom out 31.4667 26.8065
+\i (01:06:53) trapsize 1388
+\i (01:06:53) roam x 96 
+\i (01:06:53) roam x 96
+\i (01:06:53) roam x 96 
+\i (01:06:53) roam x 96
+\i (01:06:54) zoom in 1 
+\i (01:06:54) setwindow pcb
+\i (01:06:54) zoom in 31.9939 23.3099
+\i (01:06:54) trapsize 694
+\i (01:06:54) roam y 96 
+\i (01:06:54) roam y 96
+\i (01:06:54) roam y 96 
+\i (01:06:54) roam y 96
+\i (01:06:54) roam y 96 
+\i (01:06:54) roam y 96
+\i (01:06:55) zoom in 1 
+\i (01:06:55) setwindow pcb
+\i (01:06:55) zoom in 27.8869 21.1524
+\i (01:06:55) trapsize 347
+\i (01:06:56) drag_start grid 27.8037 21.2704
+\i (01:06:56) drag_stop 27.7621 21.4230
+\i (01:06:57) drag_start grid 27.6580 21.3120
+\i (01:06:57) drag shape main 
+\i (01:06:57) drag_stop grid 27.6927 21.4646
+\i (01:06:57) shapeedit 
+\i (01:06:57) pick grid 27.8870 21.2912
+\t (01:06:57) last pick:  27.8900 21.2900
+\i (01:06:58) drag_start grid 27.9286 21.2843
+\i (01:06:58) drag shape main 
+\i (01:06:58) drag_stop grid 28.0951 21.2912
+\i (01:06:58) shapeedit 
+\i (01:06:59) drag_start grid 27.0128 21.1108
+\i (01:06:59) drag shape main 
+\i (01:07:00) drag_stop grid 26.8602 21.1039
+\i (01:07:00) shapeedit 
+\i (01:07:00) roam y 96 
+\i (01:07:00) roam y 96
+\i (01:07:01) roam y 96 
+\i (01:07:01) roam y 96
+\i (01:07:01) roam y 96 
+\i (01:07:01) roam y 96
+\i (01:07:02) drag_start grid 26.9504 18.7590
+\i (01:07:02) drag shape main 
+\i (01:07:02) drag_stop grid 27.0545 18.7590
+\i (01:07:02) shapeedit 
+\i (01:07:04) drag_start grid 28.0604 18.6688
+\i (01:07:04) drag shape main 
+\i (01:07:04) drag_stop grid 27.9286 18.6549
+\i (01:07:04) shapeedit 
+\i (01:07:05) drag_start grid 29.0386 18.9949
+\i (01:07:05) drag shape main 
+\i (01:07:06) drag_stop grid 29.1565 18.9879
+\i (01:07:06) shapeedit 
+\i (01:07:07) drag_start grid 29.0525 18.7243
+\i (01:07:07) drag_stop 29.1219 18.7174
+\i (01:07:07) drag_start grid 29.0039 18.6827
+\i (01:07:08) drag shape main 
+\i (01:07:08) drag_stop grid 29.1565 18.6688
+\i (01:07:08) shapeedit 
+\i (01:07:09) pick grid 28.6709 17.9751
+\t (01:07:09) last pick:  28.6700 17.9800
+\i (01:07:10) drag_start grid 28.6848 17.9126
+\i (01:07:10) drag shape main 
+\i (01:07:10) drag_stop grid 28.6848 17.7600
+\i (01:07:10) shapeedit 
+\i (01:07:11) drag_start grid 26.6313 17.9334
+\i (01:07:11) drag shape main 
+\i (01:07:11) drag_stop grid 26.5758 17.7531
+\i (01:07:11) shapeedit 
+\i (01:07:12) drag_start grid 25.9653 18.2040
+\i (01:07:12) drag shape main 
+\i (01:07:13) drag_stop grid 25.7641 18.2318
+\i (01:07:13) shapeedit 
+\i (01:07:14) drag_start grid 25.9792 19.6539
+\i (01:07:14) drag shape main 
+\i (01:07:16) drag_stop grid 25.7572 19.6748
+\i (01:07:16) shapeedit 
+\i (01:07:20) zoom out 1 
+\i (01:07:20) setwindow pcb
+\i (01:07:20) zoom out 26.5133 19.2169
+\i (01:07:20) trapsize 694
+\i (01:07:21) zoom in 1 
+\i (01:07:21) setwindow pcb
+\i (01:07:21) zoom in 27.8038 21.7005
+\i (01:07:21) trapsize 347
+\i (01:07:22) pick grid 27.7483 21.4230
+\t (01:07:22) last pick:  27.7500 21.4200
+\i (01:07:24) drag_start grid 27.6790 21.4507
+\i (01:07:24) drag shape main 
+\i (01:07:24) drag_stop grid 27.7206 21.4854
+\i (01:07:24) shapeedit 
+\i (01:07:25) roam y 96 
+\i (01:07:25) roam y 96
+\i (01:07:25) roam y 96 
+\i (01:07:25) roam y 96
+\i (01:07:25) roam y 96 
+\i (01:07:25) roam y 96
+\i (01:07:25) zoom out 1 
+\i (01:07:25) setwindow pcb
+\i (01:07:25) zoom out 26.8534 17.5727
+\i (01:07:25) trapsize 694
+\i (01:07:26) roam y 96 
+\i (01:07:26) roam y 96
+\i (01:07:26) roam y 96 
+\i (01:07:26) roam y 96
+\i (01:07:26) roam y 96 
+\i (01:07:26) roam y 96
+\i (01:07:26) roam y 96 
+\i (01:07:26) roam y 96
+\i (01:07:26) roam y 96 
+\i (01:07:26) roam y 96
+\i (01:07:27) roam y 96 
+\i (01:07:27) roam y 96
+\i (01:07:27) zoom out 1 
+\i (01:07:27) setwindow pcb
+\i (01:07:27) zoom out 27.7136 10.6490
+\i (01:07:27) trapsize 1388
+\i (01:07:27) zoom out 1 
+\i (01:07:27) setwindow pcb
+\i (01:07:27) zoom out 27.8524 10.5658
+\i (01:07:27) trapsize 2775
+\i (01:07:27) roam y 96 
+\i (01:07:27) roam y 96
+\i (01:07:28) zoom in 1 
+\i (01:07:28) setwindow pcb
+\i (01:07:28) zoom in 29.7395 1.4500
+\i (01:07:28) trapsize 1388
+\i (01:07:28) zoom in 1 
+\i (01:07:28) setwindow pcb
+\i (01:07:28) zoom in 29.5175 1.5888
+\i (01:07:28) trapsize 694
+\i (01:07:28) zoom in 1 
+\i (01:07:28) setwindow pcb
+\i (01:07:28) zoom in 29.5037 1.6443
+\i (01:07:28) trapsize 347
+\i (01:07:29) roam y -96 
+\i (01:07:29) roam y -96
+\i (01:07:29) roam y -96 
+\i (01:07:29) roam y -96
+\i (01:07:29) roam x -96 
+\i (01:07:29) roam x -96
+\i (01:07:30) zoom in 1 
+\i (01:07:30) setwindow pcb
+\i (01:07:30) zoom in 28.7957 3.1912
+\i (01:07:30) trapsize 173
+\i (01:07:30) zoom out 1 
+\i (01:07:30) setwindow pcb
+\i (01:07:30) zoom out 28.7957 3.1913
+\i (01:07:30) trapsize 347
+\i (01:07:30) zoom out 1 
+\i (01:07:30) setwindow pcb
+\i (01:07:30) zoom out 28.7957 3.1843
+\i (01:07:30) trapsize 694
+\i (01:07:31) roam x -96 
+\i (01:07:31) roam x -96
+\i (01:07:31) roam x -96 
+\i (01:07:31) roam x -96
+\i (01:07:31) roam y -96 
+\i (01:07:31) roam y -96
+\i (01:07:32) roam y -96 
+\i (01:07:32) roam y -96
+\i (01:07:32) roam x -96 
+\i (01:07:32) roam x -96
+\i (01:07:32) roam y -96 
+\i (01:07:32) roam y -96
+\i (01:07:32) roam y -96 
+\i (01:07:32) roam y -96
+\i (01:07:32) roam x -96 
+\i (01:07:32) roam x -96
+\i (01:07:33) roam y -96 
+\i (01:07:33) roam y -96
+\i (01:07:33) zoom out 1 
+\i (01:07:33) setwindow pcb
+\i (01:07:33) zoom out 23.7245 9.5667
+\i (01:07:33) trapsize 1388
+\i (01:07:33) roam y -96 
+\i (01:07:33) roam y -96
+\i (01:07:33) roam x -96 
+\i (01:07:33) roam x -96
+\i (01:07:33) roam y -96 
+\i (01:07:33) roam y -96
+\i (01:07:34) zoom in 1 
+\i (01:07:34) setwindow pcb
+\i (01:07:34) zoom in 23.2804 17.3229
+\i (01:07:34) trapsize 694
+\i (01:07:34) zoom in 1 
+\i (01:07:34) setwindow pcb
+\i (01:07:34) zoom in 23.2805 17.2952
+\i (01:07:34) trapsize 347
+\i (01:07:34) zoom in 1 
+\i (01:07:34) setwindow pcb
+\i (01:07:34) zoom in 23.3222 17.3022
+\i (01:07:34) trapsize 173
+\i (01:07:34) roam y -96 
+\i (01:07:34) roam y -96
+\i (01:07:35) roam y -96 
+\i (01:07:35) roam y -96
+\i (01:07:36) drag_start grid 23.1453 18.0513
+\i (01:07:36) drag shape main 
+\i (01:07:37) drag_stop grid 23.3118 18.0479
+\i (01:07:37) shapeedit 
+\i (01:07:37) zoom out 1 
+\i (01:07:37) setwindow pcb
+\i (01:07:37) zoom out 23.3257 18.0826
+\i (01:07:37) trapsize 347
+\i (01:07:37) zoom out 1 
+\i (01:07:37) setwindow pcb
+\i (01:07:37) zoom out 23.3257 18.0895
+\i (01:07:37) trapsize 694
+\i (01:07:38) roam y -96 
+\i (01:07:38) roam y -96
+\i (01:07:38) zoom in 1 
+\i (01:07:38) setwindow pcb
+\i (01:07:38) zoom in 23.2008 19.7371
+\i (01:07:38) trapsize 347
+\i (01:07:39) drag_start grid 23.1731 19.6053
+\i (01:07:39) drag shape main 
+\i (01:07:39) drag_stop grid 23.3188 19.5776
+\i (01:07:39) shapeedit 
+\i (01:07:40) drag_start grid 22.1047 20.1048
+\i (01:07:40) drag shape main 
+\i (01:07:41) drag_stop grid 22.2782 20.1117
+\i (01:07:41) shapeedit 
+\i (01:07:43) drag_start grid 23.3327 19.1544
+\i (01:07:43) drag shape main 
+\i (01:07:46) drag_stop grid 23.3119 19.1336
+\i (01:07:46) shapeedit 
+\i (01:07:46) drag_start grid 21.5150 20.7222
+\i (01:07:46) drag shape main 
+\i (01:07:47) drag_stop grid 21.5081 20.9096
+\i (01:07:47) shapeedit 
+\i (01:07:47) drag_start grid 21.1612 20.5072
+\i (01:07:47) drag shape main 
+\i (01:07:48) drag_stop grid 20.9947 20.4517
+\i (01:07:48) shapeedit 
+\i (01:07:49) roam y 96 
+\i (01:07:49) roam y 96
+\i (01:07:49) roam y 96 
+\i (01:07:49) roam y 96
+\i (01:07:50) drag_start grid 21.0919 18.1277
+\i (01:07:50) drag shape main 
+\i (01:07:50) drag_stop grid 21.2306 18.1207
+\i (01:07:50) shapeedit 
+\i (01:07:51) drag_start grid 20.1067 18.0375
+\i (01:07:51) drag shape main 
+\i (01:07:51) drag_stop grid 19.9333 18.0167
+\i (01:07:51) shapeedit 
+\i (01:07:52) drag_start grid 20.1484 18.6827
+\i (01:07:52) drag shape main 
+\i (01:07:54) drag_stop grid 19.9333 18.6965
+\i (01:07:54) shapeedit 
+\i (01:07:54) drag_start grid 20.6964 17.3576
+\i (01:07:54) drag shape main 
+\i (01:07:55) drag_stop grid 20.6825 17.1356
+\i (01:07:55) shapeedit 
+\i (01:07:56) drag_start grid 22.2088 18.1623
+\i (01:07:56) drag shape main 
+\i (01:07:56) drag_stop grid 22.0215 18.1277
+\i (01:07:56) shapeedit 
+\i (01:07:57) drag_start grid 22.3892 17.3784
+\i (01:07:57) drag shape main 
+\i (01:07:58) drag_stop grid 22.3892 17.1495
+\i (01:07:58) shapeedit 
+\i (01:07:58) zoom out 1 
+\i (01:07:58) setwindow pcb
+\i (01:07:58) zoom out 22.6528 17.5935
+\i (01:07:58) trapsize 694
+\i (01:07:59) roam x -96 
+\i (01:07:59) roam x -96
+\i (01:07:59) roam x -96 
+\i (01:07:59) roam x -96
+\i (01:08:00) roam x -96 
+\i (01:08:00) roam x -96
+\i (01:08:01) zoom out 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom out 16.3984 18.2039
+\i (01:08:01) trapsize 1388
+\i (01:08:01) zoom out 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom out 16.5095 18.0652
+\i (01:08:01) trapsize 2775
+\i (01:08:01) zoom in 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom in 16.9535 18.3983
+\i (01:08:01) trapsize 1388
+\i (01:08:01) zoom in 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom in 16.9535 18.3983
+\i (01:08:01) trapsize 694
+\i (01:08:02) roam y 96 
+\i (01:08:02) roam y 96
+\i (01:08:02) roam y 96 
+\i (01:08:02) roam y 96
+\i (01:08:02) zoom out 1 
+\i (01:08:02) setwindow pcb
+\i (01:08:02) zoom out 17.7860 15.9771
+\i (01:08:02) trapsize 1388
+\i (01:08:02) zoom out 1 
+\i (01:08:02) setwindow pcb
+\i (01:08:02) zoom out 17.8971 15.8938
+\i (01:08:02) trapsize 2775
+\i (01:08:02) roam y 96 
+\i (01:08:02) roam y 96
+\i (01:08:03) roam x -96 
+\i (01:08:03) roam x -96
+\i (01:08:03) roam x -96 
+\i (01:08:03) roam x -96
+\i (01:08:04) roam y -96 
+\i (01:08:04) roam y -96
+\i (01:08:04) roam y -96 
+\i (01:08:04) roam y -96
+\i (01:08:04) zoom in 1 
+\i (01:08:04) setwindow pcb
+\i (01:08:04) zoom in 6.2145 20.0426
+\i (01:08:04) trapsize 1388
+\i (01:08:04) zoom in 1 
+\i (01:08:04) setwindow pcb
+\i (01:08:04) zoom in 6.6030 19.8206
+\i (01:08:04) trapsize 694
+\i (01:08:04) zoom in 1 
+\i (01:08:04) setwindow pcb
+\i (01:08:04) zoom in 6.7557 19.8207
+\i (01:08:04) trapsize 347
+\i (01:08:05) roam x 96 
+\i (01:08:05) roam x 96
+\i (01:08:06) drag_start grid 8.8712 19.0715
+\i (01:08:06) drag shape main 
+\i (01:08:06) drag_stop grid 8.9267 18.7801
+\i (01:08:06) shapeedit 
+\i (01:08:07) drag_start grid 9.2666 19.4808
+\i (01:08:07) drag shape main 
+\i (01:08:07) drag_stop grid 9.4401 19.5016
+\i (01:08:07) shapeedit 
+\i (01:08:08) drag_start grid 8.3578 19.4530
+\i (01:08:08) drag shape main 
+\i (01:08:08) drag_stop grid 8.0872 19.3906
+\i (01:08:08) shapeedit 
+\i (01:08:09) roam y -96 
+\i (01:08:09) roam y -96
+\i (01:08:09) roam y -96 
+\i (01:08:09) roam y -96
+\i (01:08:09) roam y -96 
+\i (01:08:09) roam y -96
+\i (01:08:10) drag_start grid 7.8236 22.3596
+\i (01:08:10) drag_stop 7.8514 22.5607
+\i (01:08:11) drag_start grid 7.8028 22.4151
+\i (01:08:11) drag shape main 
+\i (01:08:11) drag_stop grid 7.8444 22.6301
+\i (01:08:11) shapeedit 
+\i (01:08:12) drag_start grid 7.3102 22.1237
+\i (01:08:12) drag shape main 
+\i (01:08:12) drag_stop grid 7.1368 22.1029
+\i (01:08:12) shapeedit 
+\i (01:08:13) pick grid 8.8781 21.4091
+\t (01:08:13) last pick:  8.8800 21.4100
+\i (01:08:13) click shape main 
+\i (01:08:14) pick grid 8.2468 21.8462
+\t (01:08:14) last pick:  8.2500 21.8500
+\i (01:08:15) prepopup 8.3717 21.5756
+\i (01:08:16) cancel 
+\i (01:08:16) shapeedit 
+\i (01:08:17) drag_start grid 8.2676 21.8254
+\i (01:08:17) drag shape main 
+\i (01:08:17) drag_stop grid 8.4272 21.8531
+\i (01:08:17) shapeedit 
+\i (01:08:18) drag_start grid 9.3707 22.0821
+\i (01:08:18) drag shape main 
+\i (01:08:19) drag_stop grid 9.1625 22.0474
+\i (01:08:19) shapeedit 
+\i (01:08:19) drag_start grid 9.6482 22.4151
+\i (01:08:19) drag shape main 
+\i (01:08:20) drag_stop grid 9.6759 22.5816
+\i (01:08:20) shapeedit 
+\i (01:08:21) drag_start grid 10.3003 22.2555
+\i (01:08:21) drag shape main 
+\i (01:08:21) drag_stop grid 10.5154 22.2208
+\i (01:08:21) shapeedit 
+\i (01:08:22) drag_start grid 10.3558 21.0345
+\i (01:08:22) drag shape main 
+\i (01:08:23) drag_stop grid 10.5223 21.0067
+\i (01:08:23) shapeedit 
+\i (01:08:23) zoom out 1 
+\i (01:08:23) setwindow pcb
+\i (01:08:23) zoom out 10.3419 21.0276
+\i (01:08:23) trapsize 694
+\i (01:08:24) roam y 96 
+\i (01:08:24) roam y 96
+\i (01:08:25) drag_start grid 9.3846 19.6122
+\i (01:08:25) drag shape main 
+\i (01:08:26) drag_stop grid 9.5372 19.5845
+\i (01:08:26) shapeedit 
+\i (01:08:27) roam x 96 
+\i (01:08:27) roam x 96
+\i (01:08:28) roam x 96 
+\i (01:08:28) roam x 96
+\i (01:08:28) drag_start grid 12.7077 22.3595
+\i (01:08:28) drag shape main 
+\i (01:08:29) drag_stop grid 12.7216 22.1652
+\i (01:08:29) shapeedit 
+\i (01:08:30) drag_start grid 12.4024 22.6509
+\i (01:08:30) drag shape main 
+\i (01:08:30) drag_stop grid 12.1249 22.6231
+\i (01:08:30) shapeedit 
+\i (01:08:31) drag_start grid 12.6522 23.3307
+\i (01:08:31) drag shape main 
+\i (01:08:31) drag_stop grid 12.7077 23.5250
+\i (01:08:31) shapeedit 
+\i (01:08:32) drag_start grid 13.7344 23.2197
+\i (01:08:33) drag_stop 13.7622 23.4695
+\i (01:08:33) drag_start grid 13.7899 23.3585
+\i (01:08:33) drag shape main 
+\i (01:08:36) zoom in 1 
+\i (01:08:36) setwindow pcb
+\i (01:08:36) zoom in 13.7483 23.5389
+\i (01:08:36) trapsize 347
+\i (01:08:37) drag_stop grid 13.7345 23.5250
+\i (01:08:37) shapeedit 
+\i (01:08:38) drag_start grid 15.3440 22.2624
+\i (01:08:38) drag shape main 
+\i (01:08:38) drag_stop grid 15.3717 22.4358
+\i (01:08:38) shapeedit 
+\i (01:08:39) drag_start grid 15.7464 22.1791
+\i (01:08:39) drag shape main 
+\i (01:08:40) drag_stop grid 15.9337 22.1514
+\i (01:08:40) shapeedit 
+\i (01:08:41) drag_start grid 15.2399 21.3258
+\i (01:08:41) drag shape main 
+\i (01:08:41) drag_stop grid 15.2607 21.1385
+\i (01:08:41) shapeedit 
+\i (01:08:41) roam y 96 
+\i (01:08:41) roam y 96
+\i (01:08:42) roam y 96 
+\i (01:08:42) roam y 96
+\i (01:08:43) drag_start grid 12.9436 20.3199
+\i (01:08:43) drag shape main 
+\i (01:08:43) drag_stop grid 12.9505 20.1187
+\i (01:08:43) shapeedit 
+\i (01:08:44) drag_start grid 13.6929 20.2922
+\i (01:08:44) drag shape main 
+\i (01:08:45) drag_stop grid 13.6929 20.1257
+\i (01:08:45) shapeedit 
+\i (01:08:48) drag_start grid 13.5541 20.1187
+\i (01:08:48) drag shape main 
+\i (01:08:48) drag_stop grid 13.5541 20.0910
+\i (01:08:48) shapeedit 
+\i (01:08:48) pick grid 13.5541 20.0910
+\t (01:08:48) last pick:  13.5500 20.0900
+\i (01:08:48) click shape main 
+\i (01:08:48) pick grid dbl 13.5541 20.0910
+\t (01:08:48) last pick:  13.5500 20.0900
+\i (01:08:50) pick grid 13.5680 20.0840
+\t (01:08:50) last pick:  13.5700 20.0800
+\i (01:08:50) shapeedit 
+\i (01:08:52) drag_start grid 13.8871 20.0840
+\i (01:08:52) drag shape main 
+\i (01:08:53) drag_stop grid 13.8455 20.1257
+\i (01:08:53) shapeedit 
+\i (01:08:54) drag_start grid 13.4570 20.0771
+\i (01:08:54) drag shape main 
+\i (01:08:56) drag_stop grid 13.4292 19.8759
+\i (01:08:56) shapeedit 
+\i (01:08:57) drag_start grid 13.5333 20.0008
+\i (01:08:57) drag shape main 
+\i (01:08:59) zoom in 1 
+\i (01:08:59) setwindow pcb
+\i (01:08:59) zoom in 13.5610 19.9800
+\i (01:08:59) trapsize 173
+\i (01:08:59) zoom in 1 
+\i (01:08:59) setwindow pcb
+\i (01:08:59) zoom in 13.5610 19.9800
+\i (01:08:59) trapsize 87
+\i (01:08:59) zoom in 1 
+\i (01:08:59) setwindow pcb
+\i (01:08:59) zoom in 13.5610 19.9800
+\i (01:08:59) trapsize 43
+\i (01:09:01) zoom in 1 
+\i (01:09:01) setwindow pcb
+\i (01:09:01) zoom in 13.5575 19.9818
+\i (01:09:01) trapsize 22
+\i (01:09:02) zoom out 1 
+\i (01:09:02) setwindow pcb
+\i (01:09:02) zoom out 13.5575 19.9827
+\i (01:09:02) trapsize 43
+\i (01:09:02) zoom out 1 
+\i (01:09:02) setwindow pcb
+\i (01:09:02) zoom out 13.5575 19.9826
+\i (01:09:02) trapsize 87
+\i (01:09:02) drag_stop grid 13.5593 19.9809
+\i (01:09:02) shapeedit 
+\i (01:09:03) prepopup 13.5576 19.9913
+\i (01:09:08) pop dyn_option_select '@:@Slide segment' 
+\i (01:09:08) slide shape segment 
+\i (01:09:09) pick grid 13.5558 19.9480
+\t (01:09:09) last pick:  13.5600 19.9500
+\i (01:09:09) shapeedit 
+\i (01:09:10) drag_start grid 13.5558 20.1006
+\i (01:09:10) drag shape main 
+\i (01:09:12) drag_stop grid 13.5576 20.0937
+\i (01:09:12) shapeedit 
+\i (01:09:13) drag_start grid 13.4726 19.8769
+\i (01:09:13) drag shape main 
+\i (01:09:16) drag_stop grid 13.4604 20.1266
+\i (01:09:16) shapeedit 
+\i (01:09:17) drag_start grid 13.1431 20.1179
+\i (01:09:17) drag shape main 
+\i (01:09:18) drag_stop grid 13.1483 20.1283
+\i (01:09:18) shapeedit 
+\i (01:09:18) zoom out 1 
+\i (01:09:18) setwindow pcb
+\i (01:09:18) zoom out 13.0546 20.1023
+\i (01:09:18) trapsize 173
+\i (01:09:19) zoom out 1 
+\i (01:09:19) setwindow pcb
+\i (01:09:19) zoom out 13.0997 20.1232
+\i (01:09:19) trapsize 347
+\i (01:09:19) roam x -96 
+\i (01:09:19) roam x -96
+\i (01:09:19) roam y -96 
+\i (01:09:19) roam y -96
+\i (01:09:20) drag_start grid 12.3330 21.0067
+\i (01:09:20) drag shape main 
+\i (01:09:21) drag_stop grid 12.1734 20.9929
+\i (01:09:21) shapeedit 
+\i (01:09:21) drag_start grid 12.5411 21.2287
+\i (01:09:21) drag shape main 
+\i (01:09:22) drag_stop grid 12.5411 21.4369
+\i (01:09:22) shapeedit 
+\i (01:09:22) zoom in 1 
+\i (01:09:22) setwindow pcb
+\i (01:09:22) zoom in 12.3607 22.0543
+\i (01:09:22) trapsize 173
+\i (01:09:23) zoom out 1 
+\i (01:09:23) setwindow pcb
+\i (01:09:23) zoom out 12.3399 21.9156
+\i (01:09:23) trapsize 347
+\i (01:09:23) zoom out 1 
+\i (01:09:23) setwindow pcb
+\i (01:09:23) zoom out 12.3885 21.8185
+\i (01:09:23) trapsize 694
+\i (01:09:24) roam y 96 
+\i (01:09:24) roam y 96
+\i (01:09:25) zoom out 1 
+\i (01:09:25) setwindow pcb
+\i (01:09:25) zoom out 11.8473 19.4041
+\i (01:09:25) trapsize 1388
+\i (01:09:25) roam y 96 
+\i (01:09:25) roam y 96
+\i (01:09:25) roam y 96 
+\i (01:09:25) roam y 96
+\i (01:09:25) roam x -96 
+\i (01:09:25) roam x -96
+\i (01:09:26) roam y 96 
+\i (01:09:26) roam y 96
+\i (01:09:26) roam y 96 
+\i (01:09:26) roam y 96
+\i (01:09:26) roam x -96 
+\i (01:09:26) roam x -96
+\i (01:09:27) roam y 96 
+\i (01:09:27) roam y 96
+\i (01:09:27) roam x 96 
+\i (01:09:27) roam x 96
+\i (01:09:28) roam x 96 
+\i (01:09:28) roam x 96
+\i (01:09:28) roam x -96 
+\i (01:09:28) roam x -96
+\i (01:09:28) roam y -96 
+\i (01:09:28) roam y -96
+\i (01:09:29) roam y -96 
+\i (01:09:29) roam y -96
+\i (01:09:29) roam x -96 
+\i (01:09:29) roam x -96
+\i (01:09:29) roam y -96 
+\i (01:09:29) roam y -96
+\i (01:09:29) roam y -96 
+\i (01:09:29) roam y -96
+\i (01:09:30) roam y -96 
+\i (01:09:30) roam y -96
+\i (01:09:30) roam y -96 
+\i (01:09:30) roam y -96
+\i (01:09:30) roam y -96 
+\i (01:09:30) roam y -96
+\i (01:09:30) roam y -96 
+\i (01:09:30) roam y -96
+\i (01:09:31) roam x 96 
+\i (01:09:31) roam x 96
+\i (01:09:31) roam y -96 
+\i (01:09:31) roam y -96
+\i (01:09:31) roam x 96 
+\i (01:09:31) roam x 96
+\i (01:09:32) roam x 96 
+\i (01:09:32) roam x 96
+\i (01:09:32) roam x 96 
+\i (01:09:32) roam x 96
+\i (01:09:32) roam x 96 
+\i (01:09:32) roam x 96
+\i (01:09:33) roam y 96 
+\i (01:09:33) roam y 96
+\i (01:09:33) roam x 96 
+\i (01:09:33) roam x 96
+\i (01:09:33) roam x 96 
+\i (01:09:33) roam x 96
+\i (01:09:33) roam y 96 
+\i (01:09:33) roam y 96
+\i (01:09:33) roam y 96 
+\i (01:09:33) roam y 96
+\i (01:09:34) roam y 96 
+\i (01:09:34) roam y 96
+\i (01:09:34) roam y 96 
+\i (01:09:34) roam y 96
+\i (01:09:34) roam y 96 
+\i (01:09:34) roam y 96
+\i (01:09:34) roam x -96 
+\i (01:09:34) roam x -96
+\i (01:09:34) roam y 96 
+\i (01:09:34) roam y 96
+\i (01:09:35) roam y 96 
+\i (01:09:35) roam y 96
+\i (01:09:35) roam y 96 
+\i (01:09:35) roam y 96
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in 35.8235 8.4983
+\i (01:09:40) trapsize 694
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in 35.8235 8.4983
+\i (01:09:40) trapsize 347
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in 35.8235 8.4984
+\i (01:09:40) trapsize 173
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in 35.8236 8.4984
+\i (01:09:40) trapsize 87
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in 35.8236 8.4984
+\i (01:09:40) trapsize 43
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out 35.8288 8.4984
+\i (01:09:41) trapsize 87
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out 35.8340 8.4949
+\i (01:09:41) trapsize 173
+\i (01:09:42) shapeedit 
+\i (01:09:43) pick grid 35.9382 8.6407
+\t (01:09:43) last pick:  35.9400 8.6400
+\i (01:09:43) generaledit 
+\i (01:09:44) pick grid 35.8653 8.6476
+\t (01:09:44) last pick:  35.8700 8.6500
+\i (01:09:45) zoom out 1 
+\i (01:09:45) setwindow pcb
+\i (01:09:45) zoom out 35.9277 8.5748
+\i (01:09:45) trapsize 347
+\i (01:09:45) zoom out 1 
+\i (01:09:45) setwindow pcb
+\i (01:09:45) zoom out 35.9278 8.5747
+\i (01:09:45) trapsize 694
+\i (01:09:46) pick grid 25.4799 5.6610
+\t (01:09:46) last pick:  25.4800 5.6600
+\i (01:09:47) prepopup 25.4660 5.6888
+\i (01:09:51) pick grid 24.3005 5.8830
+\t (01:09:51) last pick:  24.3000 5.8800
+\i (01:09:51) zoom out 1 
+\i (01:09:51) setwindow pcb
+\i (01:09:51) zoom out 25.7713 6.0495
+\i (01:09:51) trapsize 1388
+\i (01:09:52) zoom in 1 
+\i (01:09:52) setwindow pcb
+\i (01:09:52) zoom in 25.5770 5.7443
+\i (01:09:52) trapsize 694
+\i (01:09:52) roam y 96 
+\i (01:09:52) roam y 96
+\i (01:09:52) zoom in 1 
+\i (01:09:52) setwindow pcb
+\i (01:09:52) zoom in 25.5077 4.4330
+\i (01:09:52) trapsize 347
+\i (01:09:53) drag_start grid 25.5493 5.5915
+\i (01:09:53) slide 
+\t (01:09:53) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:09:53) No valid items selected for the current operation, exiting.
+\i (01:09:53) generaledit 
+\i (01:09:54) drag_stop grid 25.2579 6.2020
+\i (01:09:54) pick grid 25.4869 6.0910
+\t (01:09:54) last pick:  25.4900 6.0900
+\i (01:09:55) prepopup 25.4799 6.0841
+\i (01:09:57) pop dyn_option_select @:@Move 
+\i (01:09:57) move 
+\t (01:09:57) last pick:  25.4800 6.0800
+\t (01:09:57) last pick:  30.8100 5.1500
+\t (01:09:57) Moving P4 / POT_TS53YL_10K / TS53YL.
+\t (01:09:57) Pick new location for the element(s).
+\i (01:09:59) undo 
+\i (01:09:59) trapsize 347
+\i (01:09:59) generaledit 
+\i (01:10:00) pick grid 25.5424 5.8899
+\t (01:10:00) last pick:  25.5400 5.8900
+\i (01:10:01) prepopup 25.4452 5.9592
+\i (01:10:14) pop dyn_option_select Line@:@Move 
+\i (01:10:14) move 
+\t (01:10:14) last pick:  25.4500 5.9600
+\t (01:10:14) last pick:  30.8100 5.1500
+\t (01:10:14) Moving P4 / POT_TS53YL_10K / TS53YL.
+\t (01:10:14) Pick new location for the element(s).
+\i (01:10:16) undo 
+\i (01:10:16) trapsize 347
+\i (01:10:16) generaledit 
+\i (01:10:16) zoom out 1 
+\i (01:10:16) setwindow pcb
+\i (01:10:16) zoom out 26.7703 5.4112
+\i (01:10:16) trapsize 694
+\i (01:10:17) zoom out 1 
+\i (01:10:17) setwindow pcb
+\i (01:10:17) zoom out 26.7842 5.4111
+\i (01:10:17) trapsize 1388
+\i (01:10:17) zoom in 1 
+\i (01:10:17) setwindow pcb
+\i (01:10:17) zoom in 26.2292 6.1049
+\i (01:10:17) trapsize 694
+\i (01:10:17) zoom in 1 
+\i (01:10:17) setwindow pcb
+\i (01:10:17) zoom in 26.2292 6.1049
+\i (01:10:17) trapsize 347
+\i (01:10:19) pick grid 25.5563 5.9245
+\t (01:10:19) last pick:  25.5600 5.9200
+\i (01:10:19) pick grid 24.7931 5.9107
+\t (01:10:19) last pick:  24.7900 5.9100
+\i (01:10:20) pick grid 25.4453 5.9037
+\t (01:10:20) last pick:  25.4500 5.9000
+\i (01:10:24) prepopup 25.4383 6.0494
+\i (01:10:26) pop dyn_option_select @:@Delete 
+\i (01:10:26) delete 
+\i (01:10:26) generaledit 
+\i (01:10:26) zoom out 1 
+\i (01:10:26) setwindow pcb
+\i (01:10:26) zoom out 25.0845 6.0217
+\i (01:10:26) trapsize 694
+\i (01:10:27) zoom out 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom out 25.1816 5.2307
+\i (01:10:27) trapsize 1388
+\i (01:10:27) zoom in 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom in 24.9597 3.8710
+\i (01:10:27) trapsize 694
+\i (01:10:28) pick grid 25.4592 2.2754
+\t (01:10:28) last pick:  25.4600 2.2800
+\i (01:10:28) prepopup 25.4870 2.2893
+\i (01:10:29) pop dyn_option_select @:@Delete 
+\i (01:10:29) delete 
+\i (01:10:29) generaledit 
+\i (01:10:30) roam x -96 
+\i (01:10:30) roam x -96
+\i (01:10:30) roam x -96 
+\i (01:10:30) roam x -96
+\i (01:10:30) roam x -96 
+\i (01:10:30) roam x -96
+\i (01:10:30) roam x -96 
+\i (01:10:30) roam x -96
+\i (01:10:31) roam x -96 
+\i (01:10:31) roam x -96
+\i (01:10:31) pick grid 16.8007 5.7442
+\t (01:10:31) last pick:  16.8000 5.7400
+\i (01:10:32) prepopup 16.8562 5.7719
+\i (01:10:34) pop dyn_option_select @:@Delete 
+\i (01:10:34) delete 
+\i (01:10:34) generaledit 
+\i (01:10:35) pick grid 21.8651 4.1208
+\t (01:10:35) last pick:  21.8700 4.1200
+\i (01:10:35) prepopup 21.8790 4.0931
+\i (01:10:36) pop dyn_option_select @:@Delete 
+\i (01:10:36) delete 
+\i (01:10:36) generaledit 
+\i (01:10:37) roam x 96 
+\i (01:10:37) roam x 96
+\i (01:10:37) roam x 96 
+\i (01:10:37) roam x 96
+\i (01:10:37) roam x 96 
+\i (01:10:37) roam x 96
+\i (01:10:37) roam x -96 
+\i (01:10:37) roam x -96
+\i (01:10:38) roam x -96 
+\i (01:10:38) roam x -96
+\i (01:10:39) roam x 96 
+\i (01:10:39) roam x 96
+\i (01:10:39) roam x 96 
+\i (01:10:39) roam x 96
+\i (01:10:40) pick grid 30.6065 3.8711
+\t (01:10:40) last pick:  30.6100 3.8700
+\i (01:10:40) prepopup 30.5649 3.8988
+\i (01:10:41) pop dyn_option_select @:@Delete 
+\i (01:10:41) delete 
+\i (01:10:41) generaledit 
+\i (01:10:42) roam y 96 
+\i (01:10:42) roam y 96
+\i (01:10:42) roam x -96 
+\i (01:10:42) roam x -96
+\i (01:10:43) roam x -96 
+\i (01:10:43) roam x -96
+\i (01:10:43) roam x -96 
+\i (01:10:43) roam x -96
+\i (01:10:43) roam x -96 
+\i (01:10:43) roam x -96
+\i (01:10:43) roam x -96 
+\i (01:10:43) roam x -96
+\i (01:10:44) pick grid 16.8562 2.1574
+\t (01:10:44) last pick:  16.8600 2.1600
+\i (01:10:44) prepopup 16.8562 2.1574
+\i (01:10:45) pop dyn_option_select @:@Delete 
+\i (01:10:46) delete 
+\i (01:10:46) generaledit 
+\i (01:10:46) zoom out 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom out 16.9950 1.8383
+\i (01:10:46) trapsize 1388
+\i (01:10:46) roam x -96 
+\i (01:10:46) roam x -96
+\i (01:10:47) roam x -96 
+\i (01:10:47) roam x -96
+\i (01:10:47) roam x -96 
+\i (01:10:47) roam x -96
+\i (01:10:47) roam x 96 
+\i (01:10:47) roam x 96
+\i (01:10:48) roam x 96 
+\i (01:10:48) roam x 96
+\i (01:10:48) roam x 96 
+\i (01:10:48) roam x 96
+\i (01:10:49) roam y -96 
+\i (01:10:49) roam y -96
+\i (01:10:49) roam y -96 
+\i (01:10:49) roam y -96
+\i (01:10:50) roam y -96 
+\i (01:10:50) roam y -96
+\i (01:10:50) roam y -96 
+\i (01:10:50) roam y -96
+\i (01:10:51) roam y -96 
+\i (01:10:51) roam y -96
+\i (01:10:51) roam y -96 
+\i (01:10:51) roam y -96
+\i (01:10:51) roam y -96 
+\i (01:10:51) roam y -96
+\i (01:10:51) roam y -96 
+\i (01:10:51) roam y -96
+\i (01:10:52) roam x 96 
+\i (01:10:52) roam x 96
+\i (01:10:52) roam y -96 
+\i (01:10:52) roam y -96
+\i (01:10:52) roam y -96 
+\i (01:10:52) roam y -96
+\i (01:10:53) roam y -96 
+\i (01:10:53) roam y -96
+\i (01:10:54) zoom in 1 
+\i (01:10:54) setwindow pcb
+\i (01:10:54) zoom in 30.9395 37.5527
+\i (01:10:54) trapsize 694
+\i (01:10:54) zoom in 1 
+\i (01:10:54) setwindow pcb
+\i (01:10:54) zoom in 30.9395 37.5527
+\i (01:10:54) trapsize 347
+\i (01:10:54) roam y 96 
+\i (01:10:54) roam y 96
+\i (01:10:55) prepopup 30.8910 35.7212
+\i (01:10:56) pop dyn_option_select @:@Delete 
+\i (01:10:56) delete 
+\i (01:10:56) generaledit 
+\i (01:10:56) roam x -96 
+\i (01:10:56) roam x -96
+\i (01:10:56) roam x -96 
+\i (01:10:56) roam x -96
+\i (01:10:57) prepopup 25.8195 37.2891
+\i (01:10:58) pop dyn_option_select @:@Delete 
+\i (01:10:58) delete 
+\i (01:10:58) generaledit 
+\i (01:10:58) roam y 96 
+\i (01:10:58) roam y 96
+\i (01:10:58) roam y 96 
+\i (01:10:58) roam y 96
+\i (01:10:59) prepopup 25.8681 33.9521
+\i (01:11:00) pop dyn_option_select @:@Delete 
+\i (01:11:00) delete 
+\i (01:11:00) generaledit 
+\i (01:11:01) zoom out 1 
+\i (01:11:01) setwindow pcb
+\i (01:11:01) zoom out 26.8393 33.4665
+\i (01:11:01) trapsize 694
+\i (01:11:01) zoom out 1 
+\i (01:11:01) setwindow pcb
+\i (01:11:01) zoom out 26.8394 33.4665
+\i (01:11:01) trapsize 1388
+\i (01:11:01) roam x 96 
+\i (01:11:01) roam x 96
+\i (01:11:01) roam x -96 
+\i (01:11:01) roam x -96
+\i (01:11:01) zoom in 1 
+\i (01:11:01) setwindow pcb
+\i (01:11:01) zoom in 35.7957 35.4368
+\i (01:11:01) trapsize 694
+\i (01:11:02) zoom in 1 
+\i (01:11:02) setwindow pcb
+\i (01:11:02) zoom in 35.8096 35.4230
+\i (01:11:02) trapsize 347
+\i (01:11:05) zoom out 1 
+\i (01:11:05) setwindow pcb
+\i (01:11:05) zoom out 35.9067 35.7422
+\i (01:11:05) trapsize 694
+\i (01:11:06) zoom in 1 
+\i (01:11:06) setwindow pcb
+\i (01:11:06) zoom in 35.8651 35.6866
+\i (01:11:06) trapsize 347
+\i (01:11:07) drag_start grid 35.9067 35.7144
+\i (01:11:07) slide 
+\t (01:11:07) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:11:07) No valid items selected for the current operation, exiting.
+\i (01:11:07) generaledit 
+\i (01:11:08) drag_stop grid 35.9484 35.3259
+\i (01:11:10) shapeedit 
+\i (01:11:10) pick grid 35.9831 35.7976
+\t (01:11:10) last pick:  35.9800 35.8000
+\i (01:11:11) generaledit 
+\i (01:11:15) setwindow form.find
+\i (01:11:15) FORM find all_off  
+\i (01:11:16) FORM find other_segs YES 
+\i (01:11:16) setwindow pcb
+\i (01:11:16) pick grid 35.9553 35.7699
+\t (01:11:16) last pick:  35.9600 35.7700
+\i (01:11:17) drag_start grid 36.0039 35.7213
+\i (01:11:17) slide 
+\t (01:11:17) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:11:17) No valid items selected for the current operation, exiting.
+\i (01:11:17) generaledit 
+\i (01:11:18) drag_stop grid 36.0177 35.2773
+\i (01:11:18) drag_start grid 36.0594 35.7976
+\i (01:11:18) slide 
+\t (01:11:18) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:11:18) No valid items selected for the current operation, exiting.
+\i (01:11:18) generaledit 
+\i (01:11:18) drag_stop grid 36.0455 35.1039
+\i (01:11:19) prepopup 36.0177 35.7699
+\i (01:11:20) pop dyn_option_select @:@Move 
+\i (01:11:20) move 
+\t (01:11:20) last pick:  36.0200 35.7700
+\t (01:11:20) last pick:  36.0200 35.7700
+\t (01:11:20) Element has no origin, using pick.
+\t (01:11:20) Pick new location for the element(s).
+\i (01:11:23) pick grid 35.9831 35.4646
+\t (01:11:23) last pick:  35.9800 35.4600
+\i (01:11:23) generaledit 
+\i (01:11:23) pick grid 37.5787 35.6450
+\t (01:11:23) last pick:  37.5800 35.6500
+\i (01:11:24) prepopup 37.5787 35.6311
+\i (01:11:25) pop dyn_option_select @:@Move 
+\i (01:11:25) move 
+\t (01:11:25) last pick:  37.5800 35.6300
+\t (01:11:25) last pick:  37.5800 35.6300
+\t (01:11:25) Element has no origin, using pick.
+\t (01:11:25) Pick new location for the element(s).
+\i (01:11:26) pick grid 37.5926 35.3120
+\t (01:11:26) last pick:  37.5900 35.3100
+\i (01:11:26) generaledit 
+\i (01:11:26) pick grid 35.9137 37.6985
+\t (01:11:26) last pick:  35.9100 37.7000
+\i (01:11:28) roam y -96 
+\i (01:11:28) roam y -96
+\i (01:11:29) prepopup 35.6778 37.7470
+\i (01:11:31) pop dyn_option_select @:@Move 
+\i (01:11:31) move 
+\t (01:11:31) last pick:  35.6800 37.7500
+\t (01:11:31) last pick:  35.6800 37.7500
+\t (01:11:31) Element has no origin, using pick.
+\t (01:11:31) Pick new location for the element(s).
+\i (01:11:33) pick grid 35.7472 38.0106
+\t (01:11:33) last pick:  35.7500 38.0100
+\i (01:11:33) generaledit 
+\i (01:11:33) roam y 96 
+\i (01:11:33) roam y 96
+\i (01:11:33) zoom out 1 
+\i (01:11:33) setwindow pcb
+\i (01:11:33) zoom out 34.5262 36.4566
+\i (01:11:33) trapsize 694
+\i (01:11:34) roam x -96 
+\i (01:11:34) roam x -96
+\i (01:11:34) roam x -96 
+\i (01:11:34) roam x -96
+\i (01:11:34) roam x -96 
+\i (01:11:34) roam x -96
+\i (01:11:34) roam x -96 
+\i (01:11:34) roam x -96
+\i (01:11:35) roam y 96 
+\i (01:11:35) roam y 96
+\i (01:11:35) roam y 96 
+\i (01:11:35) roam y 96
+\i (01:11:36) roam y 96 
+\i (01:11:36) roam y 96
+\i (01:11:37) roam y 96 
+\i (01:11:37) roam y 96
+\i (01:11:37) roam y 96 
+\i (01:11:37) roam y 96
+\i (01:11:37) roam y 96 
+\i (01:11:37) roam y 96
+\i (01:11:37) roam y 96 
+\i (01:11:37) roam y 96
+\i (01:11:37) roam y 96 
+\i (01:11:37) roam y 96
+\i (01:11:38) roam y 96 
+\i (01:11:38) roam y 96
+\i (01:11:38) roam y 96 
+\i (01:11:38) roam y 96
+\i (01:11:38) roam y 96 
+\i (01:11:38) roam y 96
+\i (01:11:38) roam y 96 
+\i (01:11:38) roam y 96
+\i (01:11:40) prepopup 33.4230 18.8492
+\i (01:11:42) pop dyn_option_select @:@Move 
+\i (01:11:42) move 
+\t (01:11:42) last pick:  33.4200 18.8500
+\t (01:11:42) last pick:  33.4200 18.8500
+\t (01:11:42) Element has no origin, using pick.
+\t (01:11:42) Pick new location for the element(s).
+\i (01:11:44) prepopup 33.2982 18.8492
+\i (01:11:46) done 
+\i (01:11:46) generaledit 
+\i (01:11:46) prepopup 33.2704 18.8075
+\i (01:11:47) pop dyn_option_select @:@Delete 
+\i (01:11:47) delete 
+\i (01:11:47) generaledit 
+\i (01:11:48) prepopup 37.0722 18.9602
+\i (01:11:49) pop dyn_option_select @:@Delete 
+\i (01:11:49) delete 
+\i (01:11:49) generaledit 
+\i (01:11:50) prepopup 35.5320 23.8858
+\i (01:11:51) pop dyn_option_select @:@Delete 
+\i (01:11:51) delete 
+\i (01:11:51) generaledit 
+\i (01:11:52) roam y 96 
+\i (01:11:52) roam y 96
+\i (01:11:52) roam y 96 
+\i (01:11:52) roam y 96
+\i (01:11:53) roam y 96 
+\i (01:11:53) roam y 96
+\i (01:11:53) zoom out 1 
+\i (01:11:53) setwindow pcb
+\i (01:11:53) zoom out 32.2020 14.4785
+\i (01:11:53) trapsize 1388
+\i (01:11:53) roam y 96 
+\i (01:11:53) roam y 96
+\i (01:11:53) zoom out 1 
+\i (01:11:53) setwindow pcb
+\i (01:11:53) zoom out 32.2576 11.8007
+\i (01:11:53) trapsize 2775
+\i (01:11:54) zoom in 1 
+\i (01:11:54) setwindow pcb
+\i (01:11:54) zoom in 33.3121 13.3546
+\i (01:11:54) trapsize 1388
+\i (01:11:55) roam y 96 
+\i (01:11:55) roam y 96
+\i (01:11:55) roam y 96 
+\i (01:11:55) roam y 96
+\i (01:11:55) roam y 96 
+\i (01:11:55) roam y 96
+\i (01:11:56) roam x -96 
+\i (01:11:56) roam x -96
+\i (01:11:57) roam x -96 
+\i (01:11:57) roam x -96
+\i (01:11:57) roam x -96 
+\i (01:11:57) roam x -96
+\i (01:11:57) roam x -96 
+\i (01:11:57) roam x -96
+\i (01:11:58) roam x -96 
+\i (01:11:58) roam x -96
+\i (01:11:58) roam x -96 
+\i (01:11:58) roam x -96
+\i (01:11:58) roam y -96 
+\i (01:11:58) roam y -96
+\i (01:11:59) zoom in 1 
+\i (01:11:59) setwindow pcb
+\i (01:11:59) zoom in 9.4886 8.6094
+\i (01:11:59) trapsize 694
+\i (01:12:00) roam x -96 
+\i (01:12:00) roam x -96
+\i (01:12:00) roam x -96 
+\i (01:12:00) roam x -96
+\i (01:12:00) roam y -96 
+\i (01:12:00) roam y -96
+\i (01:12:00) roam y -96 
+\i (01:12:01) roam y -96
+\i (01:12:01) roam y -96 
+\i (01:12:01) roam y -96
+\i (01:12:01) roam y -96 
+\i (01:12:01) roam y -96
+\i (01:12:01) roam x -96 
+\i (01:12:01) roam x -96
+\i (01:12:02) roam y -96 
+\i (01:12:02) roam y -96
+\i (01:12:02) roam y -96 
+\i (01:12:02) roam y -96
+\i (01:12:03) roam y -96 
+\i (01:12:03) roam y -96
+\i (01:12:03) zoom out 1 
+\i (01:12:03) setwindow pcb
+\i (01:12:03) zoom out 5.4926 18.1832
+\i (01:12:03) trapsize 1388
+\i (01:12:03) roam y -96 
+\i (01:12:03) roam y -96
+\i (01:12:03) roam y -96 
+\i (01:12:03) roam y -96
+\i (01:12:03) roam y -96 
+\i (01:12:03) roam y -96
+\i (01:12:04) zoom in 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom in 3.5779 26.3694
+\i (01:12:04) trapsize 694
+\i (01:12:04) zoom in 1 
+\i (01:12:04) setwindow pcb
+\i (01:12:04) zoom in 3.5502 26.3695
+\i (01:12:04) trapsize 347
+\i (01:12:05) drag_start grid 4.6672 26.4181
+\i (01:12:05) slide 
+\t (01:12:05) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:12:05) No valid items selected for the current operation, exiting.
+\i (01:12:05) generaledit 
+\i (01:12:05) drag_stop grid 4.3897 26.2863
+\i (01:12:06) prepopup 4.6880 26.3348
+\i (01:12:07) pop dyn_option_select @:@Move 
+\i (01:12:07) move 
+\t (01:12:07) last pick:  4.6900 26.3300
+\t (01:12:07) last pick:  4.6900 26.3300
+\t (01:12:07) Element has no origin, using pick.
+\t (01:12:07) Pick new location for the element(s).
+\i (01:12:08) pick grid 4.3411 26.2724
+\t (01:12:08) last pick:  4.3400 26.2700
+\i (01:12:08) generaledit 
+\i (01:12:08) pick grid 6.6860 26.3903
+\t (01:12:08) last pick:  6.6900 26.3900
+\i (01:12:09) prepopup 6.6860 26.3903
+\i (01:12:10) pop dyn_option_select @:@Move 
+\i (01:12:10) move 
+\t (01:12:10) last pick:  6.6900 26.3900
+\t (01:12:10) last pick:  6.6900 26.3900
+\t (01:12:10) Element has no origin, using pick.
+\t (01:12:10) Pick new location for the element(s).
+\i (01:12:11) pick grid 7.0953 26.2238
+\t (01:12:11) last pick:  7.1000 26.2200
+\i (01:12:11) generaledit 
+\i (01:12:11) roam y 96 
+\i (01:12:11) roam y 96
+\i (01:12:11) roam y 96 
+\i (01:12:11) roam y 96
+\i (01:12:11) pick grid 4.5076 24.3992
+\t (01:12:11) last pick:  4.5100 24.4000
+\i (01:12:11) prepopup 4.5076 24.3992
+\i (01:12:12) pop dyn_option_select @:@Move 
+\i (01:12:12) move 
+\t (01:12:12) last pick:  4.5100 24.4000
+\t (01:12:12) last pick:  4.5100 24.4000
+\t (01:12:12) Element has no origin, using pick.
+\t (01:12:12) Pick new location for the element(s).
+\i (01:12:13) pick grid 4.2163 24.3714
+\t (01:12:13) last pick:  4.2200 24.3700
+\i (01:12:13) generaledit 
+\i (01:12:13) zoom out 1 
+\i (01:12:13) setwindow pcb
+\i (01:12:13) zoom out 4.2995 24.3298
+\i (01:12:13) trapsize 694
+\i (01:12:14) roam y -96 
+\i (01:12:14) roam y -96
+\i (01:12:14) roam y -96 
+\i (01:12:14) roam y -96
+\i (01:12:14) roam y -96 
+\i (01:12:14) roam y -96
+\i (01:12:14) roam x 96 
+\i (01:12:14) roam x 96
+\i (01:12:15) pick grid 7.6294 29.8243
+\t (01:12:15) last pick:  7.6300 29.8200
+\i (01:12:15) prepopup 7.6155 29.8243
+\i (01:12:16) pop dyn_option_select @:@Move 
+\i (01:12:16) move 
+\t (01:12:16) last pick:  7.6200 29.8200
+\t (01:12:16) last pick:  7.6200 29.8200
+\t (01:12:16) Element has no origin, using pick.
+\t (01:12:16) Pick new location for the element(s).
+\i (01:12:17) pick grid 7.5878 29.4913
+\t (01:12:17) last pick:  7.5900 29.4900
+\i (01:12:17) generaledit 
+\i (01:12:17) pick grid 7.1438 31.7668
+\t (01:12:17) last pick:  7.1400 31.7700
+\i (01:12:17) prepopup 7.1577 31.7668
+\i (01:12:19) pop dyn_option_select @:@Move 
+\i (01:12:19) move 
+\t (01:12:19) last pick:  7.1600 31.7700
+\t (01:12:19) last pick:  7.1600 31.7700
+\t (01:12:19) Element has no origin, using pick.
+\t (01:12:19) Pick new location for the element(s).
+\i (01:12:20) pick grid 7.1993 32.0721
+\t (01:12:20) last pick:  7.2000 32.0700
+\i (01:12:20) generaledit 
+\i (01:12:20) pick grid 5.7702 31.9472
+\t (01:12:20) last pick:  5.7700 31.9500
+\i (01:12:21) prepopup 5.7979 31.9472
+\i (01:12:22) pop dyn_option_select @:@Move 
+\i (01:12:22) move 
+\t (01:12:22) last pick:  5.8000 31.9500
+\t (01:12:22) last pick:  5.8000 31.9500
+\t (01:12:22) Element has no origin, using pick.
+\t (01:12:22) Pick new location for the element(s).
+\i (01:12:22) pick grid 5.7840 32.2663
+\t (01:12:22) last pick:  5.7800 32.2700
+\i (01:12:22) generaledit 
+\i (01:12:24) save 
+\i (01:12:29) fillin yes 
+\i (01:12:29) generaledit 
+\i (01:12:30) zoom out 1 
+\i (01:12:30) setwindow pcb
+\i (01:12:30) zoom out 10.0992 29.1167
+\i (01:12:30) trapsize 1388
+\i (01:12:30) zoom out 1 
+\i (01:12:30) setwindow pcb
+\i (01:12:30) zoom out 10.1824 29.1444
+\i (01:12:30) trapsize 2775
+\i (01:12:31) zoom in 1 
+\i (01:12:31) setwindow pcb
+\i (01:12:31) zoom in 11.2925 29.2554
+\i (01:12:31) trapsize 1388
+\i (01:12:31) roam x 96 
+\i (01:12:31) roam x 96
+\i (01:12:32) roam x 96 
+\i (01:12:32) roam x 96
+\i (01:12:32) roam x 96 
+\i (01:12:32) roam x 96
+\i (01:12:32) roam y 96 
+\i (01:12:32) roam y 96
+\i (01:12:32) roam x 96 
+\i (01:12:32) roam x 96
+\i (01:12:33) zoom out 1 
+\i (01:12:33) setwindow pcb
+\i (01:12:33) zoom out 21.5877 26.6192
+\i (01:12:33) trapsize 2775
+\i (01:12:33) roam y 96 
+\i (01:12:33) roam y 96
+\i (01:12:33) roam x 96 
+\i (01:12:33) roam x 96
+\i (01:12:34) roam y 96 
+\i (01:12:34) roam y 96
+\i (01:12:34) roam y 96 
+\i (01:12:34) roam y 96
+\i (01:12:35) zoom out 1 
+\i (01:12:35) setwindow pcb
+\i (01:12:35) zoom out 26.1390 11.1070
+\i (01:12:35) trapsize 5550
+\i (01:12:35) zoom in 1 
+\i (01:12:35) setwindow pcb
+\i (01:12:35) zoom in 26.1390 11.1071
+\i (01:12:35) trapsize 2775
+\i (01:12:36) zoom in 1 
+\i (01:12:36) setwindow pcb
+\i (01:12:36) zoom in 26.0835 11.2181
+\i (01:12:36) trapsize 1388
+\i (01:12:37) zoom out 1 
+\i (01:12:37) setwindow pcb
+\i (01:12:37) zoom out 26.0835 11.2182
+\i (01:12:37) trapsize 2775
+\i (01:12:37) zoom out 1 
+\i (01:12:37) setwindow pcb
+\i (01:12:37) zoom out 26.0835 11.2181
+\i (01:12:37) trapsize 5550
+\i (01:12:37) roam y -96 
+\i (01:12:37) roam y -96
+\i (01:12:39) color192 
+\i (01:12:39) setwindow cvf.dialog
+\i (01:12:39) cvf layer_mode
+\i (01:12:39) setwindow pcb
+\i (01:12:39) generaledit 
+\i (01:12:41) setwindow cvf.dialog
+\i (01:12:41) cvf global_invisible
+\i (01:12:44) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (01:12:45) cvf layer_tree_item 'Areas'
+\i (01:12:46) cvf layer_tree_item 'Board Geometry'
+\i (01:12:49) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (01:12:49) cvf apply
+\i (01:12:50) cvf layer_tree_item 'Package Geometry'
+\i (01:12:53) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (01:12:53) cvf apply
+\i (01:12:56) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:12:57) cvf layer_tree_item 'Components'
+\i (01:12:58) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (01:12:59) cvf apply
+\i (01:13:00) cvf layer_tree_item 'Manufacturing'
+\i (01:13:00) cvf layer_tree_item 'Drawing Format'
+\i (01:13:01) cvf layer_tree_item 'Analysis'
+\i (01:13:02) cvf okay
+\i (01:13:03) setwindow pcb
+\i (01:13:03) zoom in 1 
+\i (01:13:03) setwindow pcb
+\i (01:13:03) zoom in 19.3124 23.1506
+\i (01:13:03) trapsize 2775
+\i (01:13:03) zoom in 1 
+\i (01:13:03) setwindow pcb
+\i (01:13:03) zoom in 19.3125 22.8731
+\i (01:13:03) trapsize 1388
+\i (01:13:05) zoom out 1 
+\i (01:13:05) setwindow pcb
+\i (01:13:05) zoom out 19.3125 22.8731
+\i (01:13:05) trapsize 2775
+\i (01:13:06) zoom in 1 
+\i (01:13:06) setwindow pcb
+\i (01:13:06) zoom in 6.2700 32.2527
+\i (01:13:06) trapsize 1388
+\i (01:13:06) zoom in 1 
+\i (01:13:06) setwindow pcb
+\i (01:13:06) zoom in 6.2700 32.2527
+\i (01:13:06) trapsize 694
+\i (01:13:06) zoom in 1 
+\i (01:13:06) setwindow pcb
+\i (01:13:06) zoom in 6.2701 32.2527
+\i (01:13:06) trapsize 347
+\i (01:13:07) zoom out 1 
+\i (01:13:07) setwindow pcb
+\i (01:13:07) zoom out 6.2354 32.2042
+\i (01:13:07) trapsize 694
+\i (01:13:07) zoom out 1 
+\i (01:13:07) setwindow pcb
+\i (01:13:07) zoom out 6.2632 32.1764
+\i (01:13:07) trapsize 1388
+\i (01:13:07) roam x 96 
+\i (01:13:07) roam x 96
+\i (01:13:07) roam y 96 
+\i (01:13:07) roam y 96
+\i (01:13:08) roam x 96 
+\i (01:13:08) roam x 96
+\i (01:13:08) roam y 96 
+\i (01:13:08) roam y 96
+\i (01:13:08) zoom out 1 
+\i (01:13:08) setwindow pcb
+\i (01:13:08) zoom out 12.2636 26.2306
+\i (01:13:08) trapsize 2775
+\i (01:13:10) zoom in 1 
+\i (01:13:10) setwindow pcb
+\i (01:13:10) zoom in 5.3262 31.5587
+\i (01:13:10) trapsize 1388
+\i (01:13:10) zoom in 1 
+\i (01:13:10) setwindow pcb
+\i (01:13:10) zoom in 5.3817 31.6975
+\i (01:13:10) trapsize 694
+\i (01:13:10) zoom in 1 
+\i (01:13:10) setwindow pcb
+\i (01:13:10) zoom in 5.5482 31.8363
+\i (01:13:10) trapsize 347
+\i (01:13:11) pick grid 5.7147 32.1555
+\t (01:13:11) last pick:  5.7100 32.1600
+\i (01:13:12) prepopup 5.7286 32.1485
+\i (01:13:14) pick grid 5.2638 31.1703
+\t (01:13:14) last pick:  5.2600 31.1700
+\i (01:13:15) roam y 96 
+\i (01:13:15) roam y 96
+\i (01:13:15) roam x 96 
+\i (01:13:15) roam x 96
+\i (01:13:15) zoom out 1 
+\i (01:13:15) setwindow pcb
+\i (01:13:15) zoom out 7.1021 30.3307
+\i (01:13:15) trapsize 694
+\i (01:13:15) zoom out 1 
+\i (01:13:15) setwindow pcb
+\i (01:13:15) zoom out 7.2963 30.3168
+\i (01:13:15) trapsize 1388
+\i (01:13:15) zoom out 1 
+\i (01:13:15) setwindow pcb
+\i (01:13:15) zoom out 7.5184 30.2891
+\i (01:13:15) trapsize 2775
+\i (01:13:15) zoom out 1 
+\i (01:13:15) setwindow pcb
+\i (01:13:15) zoom out 7.8514 30.2892
+\i (01:13:15) trapsize 5550
+\i (01:13:15) roam x 96 
+\i (01:13:15) roam x 96
+\i (01:13:18) artwork 
+\w (01:13:18) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:13:19) fillin confirm
+\i (01:13:23) setwindow form.film_control
+\i (01:13:23) FORM film_control film_control  
+\i (01:13:26) FORM film_control filmtree  SSTOP 
+\i (01:13:31) FORM film_control filmtree popup Cut SSTOP 
+\i (01:13:34) FORM film_control filmtree popup Add TOP 
+\i (01:13:36) fillin "SSTOP"
+\i (01:13:37) FORM film_control filmtree  SSTOP 
+\i (01:13:43) FORM film_control undefined_line_width 0.3000 
+\i (01:13:43) FORM film_control ok  
+\i (01:13:43) setwindow pcb
+\i (01:13:43) generaledit 
+\i (01:13:43) zoom in 1 
+\i (01:13:43) setwindow pcb
+\i (01:13:43) zoom in 13.9290 20.4101
+\i (01:13:43) trapsize 2775
+\i (01:13:43) zoom in 1 
+\i (01:13:43) setwindow pcb
+\i (01:13:43) zoom in 13.9290 20.4657
+\i (01:13:43) trapsize 1388
+\i (01:13:44) zoom in 1 
+\i (01:13:44) setwindow pcb
+\i (01:13:44) zoom in 13.9013 20.4935
+\i (01:13:44) trapsize 694
+\i (01:13:44) pick grid 13.8875 20.1050
+\t (01:13:44) last pick:  13.8900 20.1100
+\i (01:13:45) shapeedit 
+\i (01:13:46) pick grid 13.1105 20.1744
+\t (01:13:46) last pick:  13.1100 20.1700
+\i (01:13:46) click shape main 
+\i (01:13:46) prepopup 13.1243 20.1467
+\i (01:13:47) pick grid 12.3751 20.0218
+\t (01:13:47) last pick:  12.3800 20.0200
+\i (01:13:48) undo 
+\i (01:13:48) trapsize 694
+\i (01:13:48) shapeedit 
+\i (01:13:50) prepopup 12.9995 20.1050
+\i (01:13:52) pick grid 11.9311 19.1477
+\t (01:13:52) last pick:  11.9300 19.1500
+\i (01:13:52) zoom in 1 
+\i (01:13:52) setwindow pcb
+\i (01:13:52) zoom in 12.8746 19.9940
+\i (01:13:52) trapsize 347
+\i (01:13:52) zoom in 1 
+\i (01:13:52) setwindow pcb
+\i (01:13:52) zoom in 12.8746 19.9940
+\i (01:13:52) trapsize 173
+\i (01:13:53) pick grid 12.9058 20.1362
+\t (01:13:53) last pick:  12.9100 20.1400
+\i (01:13:53) click shape main 
+\i (01:13:55) prepopup 12.9613 20.1258
+\i (01:13:56) cancel 
+\i (01:13:56) shapeedit 
+\i (01:13:57) prepopup 12.9336 20.1328
+\i (01:13:59) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (01:13:59) prmed 
+\i (01:14:04) setwindow form.prmedit
+\i (01:14:04) FORM prmedit cancel  
+\i (01:14:04) setwindow pcb
+\i (01:14:04) shapeedit 
+\i (01:14:09) prepopup 14.5188 20.1224
+\i (01:14:13) pick grid 13.2562 19.5778
+\t (01:14:13) last pick:  13.2600 19.5800
+\i (01:14:13) zoom out 1 
+\i (01:14:13) setwindow pcb
+\i (01:14:13) zoom out 13.3013 19.7616
+\i (01:14:13) trapsize 347
+\i (01:14:13) zoom out 1 
+\i (01:14:13) setwindow pcb
+\i (01:14:13) zoom out 13.3081 19.7824
+\i (01:14:13) trapsize 694
+\i (01:14:13) zoom out 1 
+\i (01:14:13) setwindow pcb
+\i (01:14:13) zoom out 13.3914 19.8796
+\i (01:14:13) trapsize 1388
+\i (01:14:15) zoom out 1 
+\i (01:14:15) setwindow pcb
+\i (01:14:15) zoom out 13.6690 20.6010
+\i (01:14:15) trapsize 2775
+\i (01:14:19) artwork 
+\w (01:14:19) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:14:20) fillin confirm
+\i (01:14:21) setwindow form.film_control
+\i (01:14:21) FORM film_control film_control  
+\i (01:14:22) FORM film_control filmtree  SSTOP 
+\i (01:14:24) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:14:25) FORM film_control create  
+\t (01:14:25) Checking db records
+\t (01:14:25)     checking for orphans...
+\t (01:14:25)     Checked 100 percent
+\w (01:14:25) Run batch DRC to correctly regenerate DRC errs.
+
+\t (01:14:25) Done dbdoctor.
+\t (01:14:25) Starting Create artwork films...
+\w (01:14:26) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:14:27) Artwork generated with warnings.
+\i (01:14:28) setwindow text
+\i (01:14:28) close 
+\i (01:14:30) setwindow form.film_control
+\i (01:14:30) FORM film_control cancel  
+\i (01:14:30) setwindow pcb
+\i (01:14:30) shapeedit 
+\i (01:20:07) zoom in 1 
+\i (01:20:07) setwindow pcb
+\i (01:20:07) zoom in 18.9416 23.1540
+\i (01:20:07) trapsize 1388
+\i (01:20:07) zoom in 1 
+\i (01:20:07) setwindow pcb
+\i (01:20:07) zoom in 18.9138 23.0430
+\i (01:20:07) trapsize 694
+\i (01:20:07) zoom in 1 
+\i (01:20:07) setwindow pcb
+\i (01:20:07) zoom in 18.9139 23.0569
+\i (01:20:07) trapsize 347
+\i (01:20:07) zoom out 1 
+\i (01:20:07) setwindow pcb
+\i (01:20:07) zoom out 18.8792 23.2582
+\i (01:20:07) trapsize 694
+\i (01:20:10) color192 
+\i (01:20:10) setwindow cvf.dialog
+\i (01:20:10) cvf layer_mode
+\i (01:20:10) setwindow pcb
+\i (01:20:10) shapeedit 
+\i (01:20:12) setwindow cvf.dialog
+\i (01:20:12) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (01:20:13) cvf apply
+\i (01:20:14) cvf okay
+\i (01:20:14) setwindow pcb
+\i (01:20:14) zoom in 1 
+\i (01:20:14) setwindow pcb
+\i (01:20:14) zoom in 19.5452 23.6050
+\i (01:20:14) trapsize 347
+\i (01:20:15) zoom out 1 
+\i (01:20:15) setwindow pcb
+\i (01:20:15) zoom out 20.1765 24.1461
+\i (01:20:15) trapsize 694
+\i (01:20:15) zoom out 1 
+\i (01:20:15) setwindow pcb
+\i (01:20:15) zoom out 20.2875 23.8686
+\i (01:20:15) trapsize 1388
+\i (01:20:19) zoom in 1 
+\i (01:20:19) setwindow pcb
+\i (01:20:19) zoom in 20.5650 23.1194
+\i (01:20:19) trapsize 694
+\i (01:20:20) zoom out 1 
+\i (01:20:20) setwindow pcb
+\i (01:20:20) zoom out 20.5651 23.0917
+\i (01:20:20) trapsize 1388
+\i (01:20:21) zoom in 1 
+\i (01:20:21) setwindow pcb
+\i (01:20:21) zoom in 20.5095 22.8141
+\i (01:20:21) trapsize 694
+\i (01:20:22) drag_start grid 20.7593 22.1481
+\i (01:20:22) drag shape main 
+\i (01:20:22) drag_stop grid 21.0784 22.0232
+\i (01:20:22) shapeedit 
+\i (01:20:23) drag_start grid 20.5928 22.4811
+\i (01:20:23) drag shape main 
+\i (01:20:24) drag_stop grid 20.6344 22.7447
+\i (01:20:24) shapeedit 
+\i (01:20:25) drag_start grid 20.1488 21.5237
+\i (01:20:25) drag shape main 
+\i (01:20:25) drag_stop grid 20.1904 21.1907
+\i (01:20:25) shapeedit 
+\i (01:20:26) drag_start grid 19.2885 21.4960
+\i (01:20:26) drag shape main 
+\i (01:20:26) drag_stop grid 19.3163 21.1769
+\i (01:20:27) shapeedit 
+\i (01:20:28) drag_start grid 17.9981 22.5366
+\i (01:20:28) drag shape main 
+\i (01:20:28) drag_stop grid 18.0398 22.2036
+\i (01:20:28) shapeedit 
+\i (01:20:29) drag_start grid 17.4431 22.8002
+\i (01:20:29) drag shape main 
+\i (01:20:29) drag_stop grid 17.1240 22.8002
+\i (01:20:29) shapeedit 
+\i (01:20:30) drag_start grid 17.8178 23.4940
+\i (01:20:30) drag shape main 
+\i (01:20:31) drag_stop grid 17.7761 23.7854
+\i (01:20:31) shapeedit 
+\i (01:20:31) drag_start grid 19.4411 24.5485
+\i (01:20:31) drag shape main 
+\i (01:20:32) drag_stop grid 19.3995 24.7427
+\i (01:20:32) shapeedit 
+\i (01:20:33) drag_start grid 20.1210 24.5485
+\i (01:20:33) drag shape main 
+\i (01:20:33) drag_stop grid 20.1904 24.7427
+\i (01:20:33) shapeedit 
+\i (01:20:34) pick grid 19.2053 25.1729
+\t (01:20:34) last pick:  19.2100 25.1700
+\i (01:20:34) pick grid 19.0665 25.1867
+\t (01:20:34) last pick:  19.0700 25.1900
+\i (01:20:36) setwindow form.find
+\i (01:20:36) FORM find all_on  
+\i (01:20:37) setwindow pcb
+\i (01:20:37) pick grid 19.3995 25.0896
+\t (01:20:37) last pick:  19.4000 25.0900
+\i (01:20:41) drag_start grid 20.7454 24.4791
+\i (01:20:41) drag shape main 
+\i (01:20:41) drag_stop grid 21.2033 24.4514
+\i (01:20:41) shapeedit 
+\i (01:20:42) drag_start grid 19.7741 24.7427
+\i (01:20:42) drag shape main 
+\i (01:20:43) drag_stop grid 19.7603 24.9509
+\i (01:20:43) shapeedit 
+\i (01:20:44) drag_start grid 20.6205 23.6050
+\i (01:20:44) drag shape main 
+\i (01:20:44) drag_stop grid 20.6344 23.3136
+\i (01:20:44) shapeedit 
+\i (01:20:46) drag_start grid 20.7454 22.7170
+\i (01:20:46) drag shape main 
+\i (01:20:46) drag_stop grid 20.8425 22.8002
+\i (01:20:46) shapeedit 
+\i (01:20:47) drag_start grid 21.0784 22.4117
+\i (01:20:47) drag shape main 
+\i (01:20:49) drag_stop grid 21.1894 22.3562
+\i (01:20:49) shapeedit 
+\i (01:20:50) drag_start grid 20.0100 21.1491
+\i (01:20:50) drag shape main 
+\i (01:20:51) drag_stop grid 20.0239 21.1769
+\i (01:20:51) shapeedit 
+\i (01:20:52) zoom out 1 
+\i (01:20:52) setwindow pcb
+\i (01:20:52) zoom out 20.0794 21.3572
+\i (01:20:52) trapsize 1388
+\i (01:20:54) zoom in 1 
+\i (01:20:54) setwindow pcb
+\i (01:20:54) zoom in 20.4401 18.3880
+\i (01:20:54) trapsize 694
+\i (01:20:54) zoom in 1 
+\i (01:20:54) setwindow pcb
+\i (01:20:54) zoom in 20.4957 18.4158
+\i (01:20:54) trapsize 347
+\i (01:20:55) zoom out 1 
+\i (01:20:55) setwindow pcb
+\i (01:20:55) zoom out 20.7662 18.8460
+\i (01:20:55) trapsize 694
+\i (01:20:55) zoom out 1 
+\i (01:20:55) setwindow pcb
+\i (01:20:55) zoom out 20.8357 18.9014
+\i (01:20:55) trapsize 1388
+\i (01:20:56) roam x 96 
+\i (01:20:56) roam x 96
+\i (01:20:56) roam y -96 
+\i (01:20:56) roam y -96
+\i (01:21:00) color192 
+\i (01:21:00) setwindow cvf.dialog
+\i (01:21:00) cvf layer_mode
+\i (01:21:00) setwindow pcb
+\i (01:21:00) shapeedit 
+\i (01:21:02) setwindow cvf.dialog
+\i (01:21:02) cvf cancel
+\i (01:21:03) setwindow pcb
+\i (01:21:03) generaledit 
+\i (01:21:05) setwindow form.find
+\i (01:21:05) FORM find all_off  
+\i (01:21:06) FORM find text YES 
+\i (01:21:07) setwindow pcb
+\i (01:21:07) drag_start grid 19.0625 25.3704
+\i (01:21:07) move 
+\t (01:21:07) last pick:  18.6268 24.9210
+\t (01:21:07) Pick new location for the element(s).
+\i (01:21:09) drag_stop grid 18.4520 25.5369
+\i (01:21:09) generaledit 
+\i (01:21:10) zoom in 1 
+\i (01:21:10) setwindow pcb
+\i (01:21:10) zoom in 18.7295 23.9552
+\i (01:21:10) trapsize 694
+\i (01:21:10) zoom out 1 
+\i (01:21:10) setwindow pcb
+\i (01:21:10) zoom out 18.7434 23.9552
+\i (01:21:10) trapsize 1388
+\i (01:21:11) color192 
+\i (01:21:11) generaledit 
+\i (01:21:13) setwindow cvf.dialog
+\i (01:21:13) cvf layers_visible stack-up pin/soldermask_top FALSE
+\i (01:21:13) cvf apply
+\i (01:21:14) cvf okay
+\i (01:21:15) setwindow pcb
+\i (01:21:15) zoom out 1 
+\i (01:21:15) setwindow pcb
+\i (01:21:15) zoom out 20.8524 22.6233
+\i (01:21:15) trapsize 2775
+\i (01:21:16) pick grid 22.0180 24.1772
+\t (01:21:16) last pick:  22.0200 24.1800
+\i (01:21:17) zoom in 1 
+\i (01:21:17) setwindow pcb
+\i (01:21:17) zoom in 20.9635 24.1217
+\i (01:21:17) trapsize 1388
+\i (01:21:17) zoom out 1 
+\i (01:21:17) setwindow pcb
+\i (01:21:17) zoom out 20.9635 24.1217
+\i (01:21:17) trapsize 2775
+\i (01:21:19) zoom in 1 
+\i (01:21:19) setwindow pcb
+\i (01:21:19) zoom in 20.5196 21.5687
+\i (01:21:19) trapsize 1388
+\i (01:21:19) zoom in 1 
+\i (01:21:19) setwindow pcb
+\i (01:21:19) zoom in 20.5196 21.2912
+\i (01:21:19) trapsize 694
+\i (01:21:19) zoom in 1 
+\i (01:21:19) setwindow pcb
+\i (01:21:19) zoom in 20.5474 20.9305
+\i (01:21:19) trapsize 347
+\i (01:21:20) zoom out 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom out 20.7417 20.9791
+\i (01:21:20) trapsize 694
+\i (01:21:20) zoom out 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom out 20.8666 20.9097
+\i (01:21:20) trapsize 1388
+\i (01:21:20) zoom out 1 
+\i (01:21:20) setwindow pcb
+\i (01:21:20) zoom out 20.9498 20.9096
+\i (01:21:20) trapsize 2775
+\i (01:21:21) zoom in 1 
+\i (01:21:21) setwindow pcb
+\i (01:21:21) zoom in 21.3384 20.4656
+\i (01:21:21) trapsize 1388
+\i (01:21:21) zoom in 1 
+\i (01:21:21) setwindow pcb
+\i (01:21:21) zoom in 21.3384 20.4656
+\i (01:21:21) trapsize 694
+\i (01:21:22) zoom out 1 
+\i (01:21:22) setwindow pcb
+\i (01:21:22) zoom out 21.3384 20.4657
+\i (01:21:22) trapsize 1388
+\i (01:21:23) zoom out 1 
+\i (01:21:23) setwindow pcb
+\i (01:21:23) zoom out 15.0114 28.4576
+\i (01:21:23) trapsize 2775
+\i (01:21:23) zoom out 1 
+\i (01:21:23) setwindow pcb
+\i (01:21:23) zoom out 15.0670 28.2357
+\i (01:21:23) trapsize 5550
+\i (01:21:24) zoom in 1 
+\i (01:21:24) setwindow pcb
+\i (01:21:24) zoom in 24.2801 21.3537
+\i (01:21:24) trapsize 2775
+\i (01:21:24) zoom in 1 
+\i (01:21:24) setwindow pcb
+\i (01:21:24) zoom in 24.3357 21.2427
+\i (01:21:24) trapsize 1388
+\i (01:21:27) color192 
+\i (01:21:27) setwindow cvf.dialog
+\i (01:21:27) cvf layer_mode
+\i (01:21:27) setwindow pcb
+\i (01:21:27) color192 
+\i (01:21:27) generaledit 
+\i (01:21:29) setwindow cvf.dialog
+\i (01:21:29) cvf global_invisible
+\i (01:21:30) cvf apply
+\i (01:21:32) cvf layer_tree_item 'Areas'
+\i (01:21:32) cvf layer_tree_item 'Board Geometry'
+\i (01:21:34) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (01:21:35) cvf apply
+\i (01:21:35) cvf layer_tree_item 'Package Geometry'
+\i (01:21:37) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (01:21:38) cvf apply
+\i (01:21:40) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:21:41) cvf layer_tree_item 'Components'
+\i (01:21:42) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (01:21:43) cvf apply
+\i (01:21:44) cvf okay
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom out 1 
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom out 17.4259 15.9425
+\i (01:21:44) trapsize 2775
+\i (01:21:44) zoom out 1 
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom out 17.5925 15.9979
+\i (01:21:44) trapsize 5550
+\i (01:21:44) zoom in 1 
+\i (01:21:44) setwindow pcb
+\i (01:21:44) zoom in 18.8135 15.5540
+\i (01:21:44) trapsize 2775
+\i (01:21:45) roam x -96 
+\i (01:21:45) roam x -96
+\i (01:21:48) artwork 
+\w (01:21:48) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:21:49) fillin confirm
+\i (01:21:50) setwindow form.film_control
+\i (01:21:50) FORM film_control film_control  
+\i (01:21:51) FORM film_control filmtree  SSTOP 
+\i (01:21:53) FORM film_control filmtree popup Cut SSTOP 
+\i (01:21:57) FORM film_control filmtree popup Add SMTOP 
+\i (01:22:01) fillin "SSTOP"
+\i (01:22:02) FORM film_control filmtree  SSTOP 
+\i (01:22:06) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:22:07) FORM film_control create  
+\w (01:22:07) No film records selected.
+\i (01:22:09) FORM film_control ok  
+\i (01:22:09) setwindow pcb
+\i (01:22:09) generaledit 
+\i (01:22:11) artwork 
+\w (01:22:12) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:22:14) fillin confirm
+\i (01:22:15) setwindow form.film_control
+\i (01:22:15) FORM film_control film_control  
+\i (01:22:16) FORM film_control filmtree  SSTOP 
+\i (01:22:17) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:22:21) FORM film_control undefined_line_width 0.3000 
+\i (01:22:21) FORM film_control ok  
+\i (01:22:21) setwindow pcb
+\i (01:22:21) generaledit 
+\i (01:22:24) artwork 
+\w (01:22:24) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:22:25) fillin confirm
+\i (01:22:26) setwindow form.film_control
+\i (01:22:26) FORM film_control film_control  
+\i (01:22:28) FORM film_control filmtree  SSTOP 
+\i (01:22:29) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:22:29) FORM film_control create  
+\t (01:22:29) Checking db records
+\t (01:22:29)     checking for orphans...
+\t (01:22:29)     Checked 100 percent
+\w (01:22:29) Run batch DRC to correctly regenerate DRC errs.
+
+\t (01:22:29) Done dbdoctor.
+\t (01:22:29) Starting Create artwork films...
+\w (01:22:30) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:22:31) Artwork generated with warnings.
+\i (01:22:32) setwindow text
+\i (01:22:32) close 
+\i (01:22:32) setwindow form.film_control
+\i (01:22:32) FORM film_control cancel  
+\i (01:22:32) setwindow pcb
+\i (01:22:32) generaledit 
+\i (01:23:38) zoom in 1 
+\i (01:23:38) setwindow pcb
+\i (01:23:38) zoom in 29.3026 23.2131
+\i (01:23:38) trapsize 1388
+\i (01:23:39) zoom in 1 
+\i (01:23:39) setwindow pcb
+\i (01:23:39) zoom in 27.7209 23.7126
+\i (01:23:39) trapsize 694
+\i (01:23:39) zoom in 1 
+\i (01:23:39) setwindow pcb
+\i (01:23:39) zoom in 27.7209 23.8236
+\i (01:23:39) trapsize 347
+\i (01:23:43) setwindow form.find
+\i (01:23:43) FORM find text NO 
+\i (01:23:44) FORM find other_segs YES 
+\i (01:23:44) setwindow pcb
+\i (01:23:44) pick grid 27.8596 23.8930
+\t (01:23:44) last pick:  27.8600 23.8900
+\i (01:23:45) pick grid 27.8874 23.8722
+\t (01:23:45) last pick:  27.8900 23.8700
+\i (01:23:45) zoom out 1 
+\i (01:23:45) setwindow pcb
+\i (01:23:45) zoom out 26.6941 23.6849
+\i (01:23:45) trapsize 694
+\i (01:23:45) zoom out 1 
+\i (01:23:45) setwindow pcb
+\i (01:23:45) zoom out 26.6942 23.6848
+\i (01:23:45) trapsize 1388
+\i (01:23:46) zoom in 1 
+\i (01:23:46) setwindow pcb
+\i (01:23:46) zoom in 26.2501 23.6016
+\i (01:23:46) trapsize 694
+\i (01:23:47) prepopup 27.8180 24.0178
+\i (01:23:48) pop dyn_option_select @:@Copy 
+\i (01:23:48) copy 
+\i (01:23:49) roam x -96 
+\i (01:23:49) roam x -96
+\i (01:23:50) prepopup 22.7254 24.8503
+\i (01:23:51) cancel 
+\i (01:23:51) generaledit 
+\i (01:23:52) pick grid 21.0604 24.9752
+\t (01:23:52) last pick:  21.0600 24.9800
+\i (01:23:53) roam x -96 
+\i (01:23:53) roam x -96
+\i (01:23:53) shapeedit 
+\i (01:23:54) pick grid 20.9078 24.9475
+\t (01:23:54) last pick:  20.9100 24.9500
+\i (01:23:54) click shape main 
+\i (01:23:56) pick grid 21.1159 24.9058
+\t (01:23:56) last pick:  21.1200 24.9100
+\i (01:23:56) prepopup 21.1159 24.9058
+\i (01:23:58) cancel 
+\i (01:23:58) shapeedit 
+\e (01:24:02) Command not found: Del
+\i (01:24:03) pick grid 20.6164 24.9752
+\t (01:24:03) last pick:  20.6200 24.9800
+\i (01:24:03) click shape main 
+\i (01:24:04) prepopup 20.7552 24.9197
+\i (01:24:04) cancel 
+\i (01:24:05) shapeedit 
+\i (01:24:08) setwindow form.find
+\i (01:24:08) FORM find shapes YES 
+\i (01:24:09) setwindow pcb
+\i (01:24:09) drag_start grid 17.2864 24.6145
+\i (01:24:09) drag_stop 22.0872 21.5620
+\i (01:24:10) zoom out 1 
+\i (01:24:10) setwindow pcb
+\i (01:24:10) zoom out 23.0029 22.4500
+\i (01:24:10) trapsize 1388
+\i (01:24:10) zoom out 1 
+\i (01:24:10) setwindow pcb
+\i (01:24:10) zoom out 23.0307 22.4499
+\i (01:24:10) trapsize 2775
+\i (01:24:11) zoom in 1 
+\i (01:24:11) setwindow pcb
+\i (01:24:11) zoom in 19.9782 22.8939
+\i (01:24:11) trapsize 1388
+\i (01:24:12) drag_start grid 10.2935 28.8879
+\i (01:24:12) drag_stop 22.0317 20.0912
+\i (01:24:14) prepopup 16.9812 24.7532
+\i (01:24:17) prepopup 15.9822 24.5312
+\i (01:24:17) prepopup 15.9545 24.7254
+\i (01:24:18) prepopup 15.8435 24.7532
+\i (01:24:19) prepopup 15.6492 24.8364
+\i (01:24:19) prepopup 15.3440 24.6699
+\i (01:24:20) pick grid 14.1507 24.6422
+\t (01:24:20) last pick:  14.1500 24.6400
+\i (01:24:22) color192 
+\i (01:24:22) setwindow cvf.dialog
+\i (01:24:22) cvf layer_mode
+\i (01:24:22) setwindow pcb
+\i (01:24:22) shapeedit 
+\i (01:24:35) setwindow cvf.dialog
+\i (01:24:35) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (01:24:36) cvf apply
+\i (01:24:36) cvf okay
+\i (01:24:38) setwindow pcb
+\i (01:24:38) drag_start grid 10.4322 29.0267
+\i (01:24:38) drag_stop 19.7562 22.2834
+\i (01:24:40) prepopup 13.4570 25.7522
+\i (01:24:51) pop dyn_option_select Shape@:@Delete 
+\i (01:24:51) delete 
+\i (01:24:51) shapeedit 
+\i (01:24:56) drag_start grid 25.8335 29.9147
+\i (01:24:56) drag_stop 29.9683 24.6699
+\i (01:25:00) prepopup 26.6105 26.4459
+\i (01:25:08) pop dyn_option_select Shape@:@Delete 
+\i (01:25:08) delete 
+\i (01:25:08) shapeedit 
+\i (01:25:12) generaledit 
+\i (01:25:13) zoom in 1 
+\i (01:25:13) setwindow pcb
+\i (01:25:13) zoom in 27.9425 23.9762
+\i (01:25:13) trapsize 694
+\i (01:25:13) zoom in 1 
+\i (01:25:13) setwindow pcb
+\i (01:25:13) zoom in 27.9425 23.9762
+\i (01:25:13) trapsize 347
+\i (01:25:13) pick grid 27.8038 23.9901
+\t (01:25:13) last pick:  27.8000 23.9900
+\i (01:25:13) zoom out 1 
+\i (01:25:13) setwindow pcb
+\i (01:25:13) zoom out 27.8107 23.9831
+\i (01:25:13) trapsize 694
+\i (01:25:14) prepopup 27.8107 23.9832
+\i (01:25:16) pop dyn_option_select @:@Copy 
+\i (01:25:16) copy 
+\i (01:25:18) prepopup 26.1040 26.1754
+\i (01:25:20) rotate 
+\t (01:25:20) Spin the element(s).
+\i (01:25:22) iangle -89.545
+\t (01:25:22) last angle:  +270.455 Degrees
+\i (01:25:23) zoom out 1 
+\i (01:25:23) setwindow pcb
+\i (01:25:23) zoom out 26.4370 26.0089
+\i (01:25:23) trapsize 1388
+\i (01:25:24) zoom in 1 
+\i (01:25:24) setwindow pcb
+\i (01:25:24) zoom in 26.4648 25.9257
+\i (01:25:24) trapsize 694
+\i (01:25:26) zoom in 1 
+\i (01:25:26) setwindow pcb
+\i (01:25:26) zoom in 28.5461 25.2597
+\i (01:25:26) trapsize 347
+\i (01:25:29) pick grid 28.5670 25.2528
+\t (01:25:29) last pick:  28.5700 25.2500
+\i (01:25:30) zoom out 1 
+\i (01:25:30) setwindow pcb
+\i (01:25:30) zoom out 26.6799 25.5580
+\i (01:25:30) trapsize 694
+\i (01:25:30) roam x -96 
+\i (01:25:30) roam x -96
+\i (01:25:30) roam y -96 
+\i (01:25:30) roam y -96
+\i (01:25:30) roam y -96 
+\i (01:25:30) roam y -96
+\i (01:25:34) pick grid 26.4439 26.2168
+\t (01:25:34) last pick:  26.4400 26.2200
+\i (01:25:35) pick grid 26.4855 28.1871
+\t (01:25:35) last pick:  26.4900 28.1900
+\i (01:25:40) pick grid 28.5529 29.1444
+\t (01:25:40) last pick:  28.5500 29.1400
+\i (01:25:40) zoom out 1 
+\i (01:25:40) setwindow pcb
+\i (01:25:40) zoom out 25.0842 26.7857
+\i (01:25:40) trapsize 1388
+\i (01:25:41) zoom in 1 
+\i (01:25:41) setwindow pcb
+\i (01:25:41) zoom in 25.1951 26.8689
+\i (01:25:41) trapsize 694
+\i (01:25:59) zoom in 1 
+\i (01:25:59) setwindow pcb
+\i (01:25:59) zoom in 27.7620 25.2317
+\i (01:25:59) trapsize 347
+\i (01:26:00) pick grid 27.8175 25.2387
+\t (01:26:00) last pick:  27.8200 25.2400
+\i (01:26:02) undo 
+\i (01:26:02) trapsize 694
+\i (01:26:02) generaledit 
+\i (01:26:03) zoom out 1 
+\i (01:26:03) setwindow pcb
+\i (01:26:03) zoom out 30.8632 24.5243
+\i (01:26:03) trapsize 1388
+\i (01:26:04) zoom in 1 
+\i (01:26:04) setwindow pcb
+\i (01:26:04) zoom in 30.3359 24.7740
+\i (01:26:04) trapsize 694
+\i (01:26:04) zoom in 1 
+\i (01:26:04) setwindow pcb
+\i (01:26:04) zoom in 30.2111 24.8296
+\i (01:26:04) trapsize 347
+\i (01:26:05) zoom out 1 
+\i (01:26:05) setwindow pcb
+\i (01:26:05) zoom out 29.3162 24.7116
+\i (01:26:05) trapsize 694
+\i (01:26:05) zoom out 1 
+\i (01:26:05) setwindow pcb
+\i (01:26:05) zoom out 29.3577 24.7533
+\i (01:26:05) trapsize 1388
+\i (01:26:05) zoom in 1 
+\i (01:26:05) setwindow pcb
+\i (01:26:05) zoom in 28.4420 24.5313
+\i (01:26:05) trapsize 694
+\i (01:26:06) pick grid 27.7344 23.8792
+\t (01:26:06) last pick:  27.7300 23.8800
+\i (01:26:06) pick grid 27.8316 23.9069
+\t (01:26:06) last pick:  27.8300 23.9100
+\i (01:26:06) prepopup 27.8316 23.9208
+\i (01:26:08) pop dyn_option_select @:@Copy 
+\i (01:26:08) copy 
+\i (01:26:11) prepopup 28.5669 25.2667
+\i (01:26:12) cancel 
+\i (01:26:12) generaledit 
+\i (01:26:17) shapeedit 
+\i (01:26:20) generaledit 
+\i (01:26:37) shape add 
+\i (01:26:38) pick grid 29.2468 25.4609
+\t (01:26:38) last pick:  29.2500 25.4600
+\i (01:26:41) pick grid 27.1517 25.4332
+\t (01:26:41) last pick:  27.1500 25.4300
+\i (01:26:44) prepopup 26.8464 25.4054
+\i (01:26:44) cancel 
+\i (01:26:45) generaledit 
+\i (01:26:45) pick grid 27.7899 24.0596
+\t (01:26:45) last pick:  27.7900 24.0600
+\i (01:26:54) pick grid 27.6789 23.9208
+\t (01:26:54) last pick:  27.6800 23.9200
+\i (01:26:55) prepopup 27.8593 23.9902
+\i (01:26:56) pop dyn_option_select @:@Copy 
+\i (01:26:56) copy 
+\i (01:26:58) zoom out 1 
+\i (01:26:58) setwindow pcb
+\i (01:26:58) zoom out 29.7602 26.3073
+\i (01:26:58) trapsize 1388
+\i (01:26:59) zoom in 1 
+\i (01:26:59) setwindow pcb
+\i (01:26:59) zoom in 29.7879 25.8911
+\i (01:26:59) trapsize 694
+\i (01:26:59) roam y -96 
+\i (01:26:59) roam y -96
+\i (01:26:59) roam y -96 
+\i (01:26:59) roam y -96
+\i (01:27:03) pick grid 29.6908 26.2862
+\t (01:27:03) last pick:  29.6900 26.2900
+\i (01:27:06) pick grid 29.6770 28.4229
+\t (01:27:06) last pick:  29.6800 28.4200
+\i (01:27:09) pick grid 25.2786 27.3962
+\t (01:27:09) last pick:  25.2800 27.4000
+\i (01:27:10) prepopup 26.1804 26.1335
+\i (01:27:13) rotate 
+\t (01:27:13) Spin the element(s).
+\i (01:27:15) iangle 89.939
+\t (01:27:15) last angle:  +89.939 Degrees
+\i (01:27:20) pick grid 26.2221 26.2168
+\t (01:27:20) last pick:  26.2200 26.2200
+\i (01:27:22) pick grid 26.2914 28.2564
+\t (01:27:22) last pick:  26.2900 28.2600
+\i (01:27:23) roam y 96 
+\i (01:27:23) roam y 96
+\i (01:27:24) prepopup 24.8623 25.7173
+\i (01:27:24) done 
+\i (01:27:24) generaledit 
+\i (01:27:25) drag_start grid 24.9039 28.8530
+\i (01:27:26) drag_stop 30.2320 25.3427
+\i (01:27:27) prepopup 26.4302 28.1593
+\i (01:27:28) pop dyn_option_select @:@Copy 
+\i (01:27:28) copy 
+\i (01:27:29) roam y 96 
+\i (01:27:29) roam y 96
+\i (01:27:29) roam x -96 
+\i (01:27:29) roam x -96
+\i (01:27:29) roam x -96 
+\i (01:27:29) roam x -96
+\i (01:27:30) roam x -96 
+\i (01:27:30) roam x -96
+\i (01:27:33) pick grid 17.9524 23.9829
+\t (01:27:33) last pick:  17.9500 23.9800
+\i (01:27:33) roam y 96 
+\i (01:27:33) roam y 96
+\i (01:27:34) roam x -96 
+\i (01:27:34) roam x -96
+\i (01:27:34) roam x -96 
+\i (01:27:34) roam x -96
+\i (01:27:34) roam x -96 
+\i (01:27:34) roam x -96
+\i (01:27:35) roam x -96 
+\i (01:27:35) roam x -96
+\i (01:27:35) roam y -96 
+\i (01:27:35) roam y -96
+\i (01:27:35) roam y -96 
+\i (01:27:35) roam y -96
+\i (01:27:36) roam y -96 
+\i (01:27:36) roam y -96
+\i (01:27:36) roam x -96 
+\i (01:27:36) roam x -96
+\i (01:27:46) pick grid 10.0852 27.2574
+\t (01:27:46) last pick:  10.0900 27.2600
+\i (01:27:51) pick grid 14.4697 27.2435
+\t (01:27:51) last pick:  14.4700 27.2400
+\i (01:27:52) prepopup 14.6640 26.6469
+\i (01:27:52) done 
+\i (01:27:52) generaledit 
+\i (01:27:53) drag_start grid 14.4142 25.2455
+\i (01:27:53) slide 
+\t (01:27:54) Selected item not valid for current operation, ignored: Odd-angle Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:27:54) No valid items selected for the current operation, exiting.
+\i (01:27:54) generaledit 
+\i (01:27:54) drag_stop grid 14.3726 25.4814
+\i (01:27:54) prepopup 14.3865 25.2594
+\i (01:27:55) pop dyn_option_select @:@Move 
+\i (01:27:55) move 
+\t (01:27:56) last pick:  14.3900 25.2600
+\t (01:27:56) last pick:  14.3900 25.2600
+\t (01:27:56) Element has no origin, using pick.
+\t (01:27:56) Pick new location for the element(s).
+\i (01:27:57) pick grid 14.4004 25.5230
+\t (01:27:57) last pick:  14.4000 25.5200
+\i (01:27:57) generaledit 
+\i (01:27:58) pick grid 13.2487 26.3278
+\t (01:27:58) last pick:  13.2500 26.3300
+\i (01:27:58) prepopup 13.2349 26.3278
+\i (01:27:59) pop dyn_option_select @:@Delete 
+\i (01:27:59) delete 
+\i (01:27:59) generaledit 
+\i (01:28:00) zoom in 1 
+\i (01:28:00) setwindow pcb
+\i (01:28:00) zoom in 13.6650 24.8432
+\i (01:28:00) trapsize 347
+\i (01:28:00) zoom in 1 
+\i (01:28:00) setwindow pcb
+\i (01:28:00) zoom in 13.6650 24.8432
+\i (01:28:00) trapsize 173
+\i (01:28:02) zoom out 1 
+\i (01:28:02) setwindow pcb
+\i (01:28:02) zoom out 13.3182 25.0444
+\i (01:28:02) trapsize 347
+\i (01:28:04) pick grid 13.3390 25.1623
+\t (01:28:04) last pick:  13.3400 25.1600
+\i (01:28:05) zoom out 1 
+\i (01:28:05) setwindow pcb
+\i (01:28:05) zoom out 13.1864 25.4606
+\i (01:28:05) trapsize 694
+\i (01:28:05) zoom out 1 
+\i (01:28:05) setwindow pcb
+\i (01:28:05) zoom out 13.2002 25.5161
+\i (01:28:05) trapsize 1388
+\i (01:28:07) drag_start grid 24.8553 28.9849
+\i (01:28:07) drag_stop 30.5163 25.4051
+\i (01:28:08) prepopup 26.2428 28.1524
+\i (01:28:09) pop dyn_option_select @:@Copy 
+\i (01:28:09) copy 
+\i (01:28:10) roam x -96 
+\i (01:28:10) roam x -96
+\i (01:28:10) roam y 96 
+\i (01:28:10) roam y 96
+\i (01:28:10) roam x -96 
+\i (01:28:10) roam x -96
+\i (01:28:11) prepopup 12.5689 22.9839
+\i (01:28:13) rotate 
+\t (01:28:13) Spin the element(s).
+\i (01:28:17) iangle -177.855
+\t (01:28:17) last angle:  +182.145 Degrees
+\i (01:28:21) zoom in 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom in 15.1219 20.9304
+\i (01:28:21) trapsize 694
+\i (01:28:21) zoom in 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom in 15.1219 20.9304
+\i (01:28:21) trapsize 347
+\i (01:28:22) prepopup 15.1150 20.9443
+\i (01:28:24) rotate 
+\t (01:28:24) Spin the element(s).
+\i (01:28:27) iangle -179.902
+\t (01:28:27) last angle:  +180.098 Degrees
+\i (01:28:28) zoom out 1 
+\i (01:28:28) setwindow pcb
+\i (01:28:28) zoom out 15.0456 20.9860
+\i (01:28:28) trapsize 694
+\i (01:28:29) zoom in 1 
+\i (01:28:29) setwindow pcb
+\i (01:28:29) zoom in 15.0457 20.9443
+\i (01:28:29) trapsize 347
+\i (01:28:32) zoom out 1 
+\i (01:28:32) setwindow pcb
+\i (01:28:32) zoom out 15.0457 20.9444
+\i (01:28:32) trapsize 694
+\i (01:28:39) pick grid 15.1568 20.9582
+\t (01:28:39) last pick:  15.1600 20.9600
+\i (01:28:39) prepopup 13.4779 20.7917
+\i (01:28:40) done 
+\i (01:28:40) generaledit 
+\i (01:28:41) pick grid 16.0725 21.9433
+\t (01:28:41) last pick:  16.0700 21.9400
+\i (01:28:41) prepopup 16.1003 21.9156
+\i (01:28:43) pop dyn_option_select @:@Move 
+\i (01:28:43) move 
+\t (01:28:43) last pick:  16.1000 21.9200
+\t (01:28:43) last pick:  16.1000 21.9200
+\t (01:28:43) Element has no origin, using pick.
+\t (01:28:43) Pick new location for the element(s).
+\i (01:28:45) pick grid 16.0725 22.3179
+\t (01:28:45) last pick:  16.0700 22.3200
+\i (01:28:45) generaledit 
+\i (01:28:47) pick grid 11.7574 22.8174
+\t (01:28:47) last pick:  11.7600 22.8200
+\i (01:28:47) prepopup 11.7435 22.8174
+\i (01:28:48) pop dyn_option_select @:@Move 
+\i (01:28:48) move 
+\t (01:28:49) last pick:  11.7400 22.8200
+\t (01:28:49) last pick:  11.7400 22.8200
+\t (01:28:49) Element has no origin, using pick.
+\t (01:28:49) Pick new location for the element(s).
+\i (01:28:50) pick grid 11.9794 22.7758
+\t (01:28:50) last pick:  11.9800 22.7800
+\i (01:28:50) generaledit 
+\i (01:29:22) pick grid 11.7851 20.9582
+\t (01:29:22) last pick:  11.7900 20.9600
+\i (01:29:22) prepopup 11.6880 20.8888
+\i (01:29:23) pop dyn_option_select @:@Move 
+\i (01:29:23) move 
+\t (01:29:23) last pick:  11.6900 20.8900
+\t (01:29:23) last pick:  11.6900 20.8900
+\t (01:29:23) Element has no origin, using pick.
+\t (01:29:23) Pick new location for the element(s).
+\i (01:29:24) pick grid 11.8684 20.8056
+\t (01:29:24) last pick:  11.8700 20.8100
+\i (01:29:25) generaledit 
+\i (01:29:25) zoom out 1 
+\i (01:29:25) setwindow pcb
+\i (01:29:25) zoom out 12.3956 20.0147
+\i (01:29:25) trapsize 1388
+\i (01:29:25) zoom out 1 
+\i (01:29:25) setwindow pcb
+\i (01:29:25) zoom out 12.6454 20.0424
+\i (01:29:25) trapsize 2775
+\i (01:29:25) zoom in 1 
+\i (01:29:25) setwindow pcb
+\i (01:29:25) zoom in 16.6970 19.5984
+\i (01:29:25) trapsize 1388
+\i (01:29:26) zoom in 1 
+\i (01:29:26) setwindow pcb
+\i (01:29:26) zoom in 16.4472 19.7927
+\i (01:29:26) trapsize 694
+\i (01:29:27) zoom out 1 
+\i (01:29:27) setwindow pcb
+\i (01:29:27) zoom out 15.7951 21.7074
+\i (01:29:27) trapsize 1388
+\i (01:29:29) drag_start grid 24.7029 29.0335
+\i (01:29:29) drag_stop 30.5304 25.2595
+\i (01:29:29) prepopup 29.7256 25.9255
+\i (01:29:30) pop dyn_option_select @:@Copy 
+\i (01:29:30) copy 
+\i (01:29:31) roam y 96 
+\i (01:29:31) roam y 96
+\i (01:29:33) roam x -96 
+\i (01:29:33) roam x -96
+\i (01:29:34) prepopup 10.0714 19.7926
+\i (01:29:35) rotate 
+\t (01:29:35) Spin the element(s).
+\i (01:29:36) iangle 89.974
+\t (01:29:36) last angle:  +89.974 Degrees
+\i (01:29:39) pick grid 10.0714 22.9284
+\t (01:29:39) last pick:  10.0700 22.9300
+\i (01:29:40) roam y -96 
+\i (01:29:40) roam y -96
+\i (01:29:40) roam y -96 
+\i (01:29:40) roam y -96
+\i (01:29:42) roam y -96 
+\i (01:29:42) roam y -96
+\i (01:29:43) roam x 96 
+\i (01:29:43) roam x 96
+\i (01:29:43) roam x 96 
+\i (01:29:43) roam x 96
+\i (01:29:44) roam y 96 
+\i (01:29:44) roam y 96
+\i (01:29:44) roam y 96 
+\i (01:29:44) roam y 96
+\i (01:29:45) roam y 96 
+\i (01:29:45) roam y 96
+\i (01:29:45) prepopup 22.9474 20.4586
+\i (01:29:47) done 
+\i (01:29:47) generaledit 
+\i (01:29:47) drag_start grid 19.8394 21.2079
+\i (01:29:48) drag_stop 31.6887 16.8511
+\i (01:29:49) prepopup 25.7779 20.2644
+\i (01:29:57) pop dyn_option_select @:@Delete 
+\i (01:29:57) delete 
+\i (01:29:57) generaledit 
+\i (01:29:58) zoom in 1 
+\i (01:29:58) setwindow pcb
+\i (01:29:58) zoom in 25.9722 24.3991
+\i (01:29:58) trapsize 694
+\i (01:29:58) zoom out 1 
+\i (01:29:58) setwindow pcb
+\i (01:29:58) zoom out 25.9584 24.3297
+\i (01:29:58) trapsize 1388
+\i (01:29:59) roam y -96 
+\i (01:29:59) roam y -96
+\i (01:29:59) roam y -96 
+\i (01:29:59) roam y -96
+\i (01:29:59) drag_start grid 24.4875 29.6439
+\i (01:30:00) drag_stop 30.4816 25.2594
+\i (01:30:00) prepopup 29.7878 25.7589
+\i (01:30:02) pop dyn_option_select @:@Copy 
+\i (01:30:02) copy 
+\i (01:30:02) roam y 96 
+\i (01:30:02) roam y 96
+\i (01:30:02) roam y 96 
+\i (01:30:02) roam y 96
+\i (01:30:02) roam y 96 
+\i (01:30:02) roam y 96
+\i (01:30:03) prepopup 25.4866 16.7956
+\i (01:30:05) rotate 
+\t (01:30:05) Spin the element(s).
+\i (01:30:07) iangle -88.751
+\t (01:30:07) last angle:  +271.249 Degrees
+\i (01:30:09) pick grid 26.0693 17.2119
+\t (01:30:09) last pick:  26.0700 17.2100
+\i (01:30:15) pick grid 20.1863 16.6014
+\t (01:30:15) last pick:  20.1900 16.6000
+\i (01:30:16) prepopup 18.5490 17.0454
+\i (01:30:16) done 
+\i (01:30:16) generaledit 
+\i (01:30:17) zoom in 1 
+\i (01:30:17) setwindow pcb
+\i (01:30:17) zoom in 19.2983 16.3516
+\i (01:30:17) trapsize 694
+\i (01:30:18) pick grid 20.9078 16.7540
+\t (01:30:18) last pick:  20.9100 16.7500
+\i (01:30:19) zoom out 1 
+\i (01:30:19) setwindow pcb
+\i (01:30:19) zoom out 21.5461 17.3090
+\i (01:30:19) trapsize 1388
+\i (01:30:20) roam y -96 
+\i (01:30:20) roam y -96
+\i (01:30:20) zoom in 1 
+\i (01:30:20) setwindow pcb
+\i (01:30:20) zoom in 21.1576 19.2377
+\i (01:30:20) trapsize 694
+\i (01:30:20) zoom in 1 
+\i (01:30:20) setwindow pcb
+\i (01:30:20) zoom in 21.0605 18.7660
+\i (01:30:20) trapsize 347
+\i (01:30:21) roam y 96 
+\i (01:30:21) roam y 96
+\i (01:30:22) zoom out 1 
+\i (01:30:22) setwindow pcb
+\i (01:30:22) zoom out 20.8663 18.6480
+\i (01:30:22) trapsize 694
+\i (01:30:23) drag_start grid 20.2142 21.3398
+\i (01:30:23) drag_stop 22.8782 15.6649
+\i (01:30:24) prepopup 22.7533 16.7888
+\i (01:30:30) pop dyn_option_select @:@Move 
+\i (01:30:30) move 
+\t (01:30:30) last pick:  22.7500 16.7900
+\t (01:30:30) Element has no origin, using pick.
+\t (01:30:30) Element has no origin, using pick.
+\t (01:30:30) Element has no origin, using pick.
+\t (01:30:30) Element has no origin, using pick.
+\t (01:30:30) Element has no origin, using pick.
+\t (01:30:30) Pick new location for the element(s).
+\i (01:30:30) prepopup 22.7672 16.8165
+\i (01:30:32) rotate 
+\t (01:30:32) Spin the element(s).
+\i (01:30:37) iangle 0.000
+\t (01:30:37) last angle:  +0.000 Degrees
+\i (01:30:38) prepopup 22.9615 16.8443
+\i (01:30:46) rotate 
+\t (01:30:46) Spin the element(s).
+\i (01:30:47) prepopup 24.5155 17.4825
+\i (01:30:48) cancel 
+\i (01:30:48) generaledit 
+\i (01:30:49) prepopup 20.5611 19.8413
+\i (01:30:50) pop dyn_option_select @:@Delete 
+\i (01:30:50) delete 
+\i (01:30:50) generaledit 
+\i (01:30:51) zoom out 1 
+\i (01:30:51) setwindow pcb
+\i (01:30:51) zoom out 22.8921 19.8690
+\i (01:30:51) trapsize 1388
+\i (01:30:51) roam y -96 
+\i (01:30:51) roam y -96
+\i (01:30:52) roam y -96 
+\i (01:30:52) roam y -96
+\i (01:30:52) roam y -96 
+\i (01:30:52) roam y -96
+\i (01:30:53) drag_start grid 24.3906 29.5051
+\i (01:30:53) drag_stop 30.4678 24.9541
+\i (01:30:53) prepopup 29.5521 25.8976
+\i (01:30:54) pop dyn_option_select @:@Copy 
+\i (01:30:54) copy 
+\i (01:30:54) roam y 96 
+\i (01:30:54) roam y 96
+\i (01:30:55) roam y 96 
+\i (01:30:55) roam y 96
+\i (01:30:55) prepopup 23.0586 17.9611
+\i (01:30:57) rotate 
+\t (01:30:57) Spin the element(s).
+\i (01:30:58) zoom in 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom in 23.7523 16.1296
+\i (01:30:58) trapsize 694
+\i (01:30:58) zoom in 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom in 23.7523 16.1297
+\i (01:30:58) trapsize 347
+\i (01:31:01) iangle -90.047
+\t (01:31:01) last angle:  +269.953 Degrees
+\i (01:31:02) roam x -96 
+\i (01:31:02) roam x -96
+\i (01:31:02) roam y -96 
+\i (01:31:02) roam y -96
+\i (01:31:02) roam y -96 
+\i (01:31:02) roam y -96
+\i (01:31:03) zoom out 1 
+\i (01:31:03) setwindow pcb
+\i (01:31:03) zoom out 20.5470 18.1069
+\i (01:31:03) trapsize 694
+\i (01:31:03) zoom out 1 
+\i (01:31:03) setwindow pcb
+\i (01:31:03) zoom out 20.5470 17.8987
+\i (01:31:03) trapsize 1388
+\i (01:31:03) zoom in 1 
+\i (01:31:03) setwindow pcb
+\i (01:31:03) zoom in 20.2141 17.3437
+\i (01:31:03) trapsize 694
+\i (01:31:08) pick grid 20.2419 16.8720
+\t (01:31:08) last pick:  20.2400 16.8700
+\i (01:31:09) prepopup 19.2984 17.2050
+\i (01:31:09) done 
+\i (01:31:09) generaledit 
+\i (01:34:35) setwindow form.find
+\i (01:34:35) FORM find text YES 
+\i (01:34:35) setwindow pcb
+\i (01:34:35) pick grid 21.9069 16.0811
+\t (01:34:35) last pick:  21.9100 16.0800
+\i (01:34:36) drag_start grid 21.9485 16.1643
+\i (01:34:36) move 
+\t (01:34:36) last pick:  22.3000 16.1000
+\t (01:34:36) Pick new location for the element(s).
+\i (01:34:38) drag_stop grid 23.2250 15.7758
+\i (01:34:38) generaledit 
+\i (01:34:39) drag_start grid 19.4788 16.1088
+\i (01:34:39) move 
+\t (01:34:39) last pick:  19.8100 16.1300
+\t (01:34:39) Pick new location for the element(s).
+\i (01:34:40) drag_stop grid 20.2835 15.8591
+\i (01:34:40) generaledit 
+\i (01:34:41) drag_start grid 17.4808 16.0811
+\i (01:34:41) move 
+\t (01:34:41) last pick:  17.9600 16.0600
+\t (01:34:41) Pick new location for the element(s).
+\i (01:34:42) drag_stop grid 17.4808 15.8591
+\i (01:34:42) generaledit 
+\i (01:34:43) zoom out 1 
+\i (01:34:43) setwindow pcb
+\i (01:34:43) zoom out 19.1735 16.5528
+\i (01:34:43) trapsize 1388
+\i (01:34:44) zoom in 1 
+\i (01:34:44) setwindow pcb
+\i (01:34:44) zoom in 21.5323 21.7144
+\i (01:34:44) trapsize 694
+\i (01:34:45) zoom in 1 
+\i (01:34:45) setwindow pcb
+\i (01:34:45) zoom in 21.1854 21.8670
+\i (01:34:45) trapsize 347
+\i (01:34:45) drag_start grid 21.2201 21.9919
+\i (01:34:45) slide 
+\t (01:34:46) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (01:34:46) No valid items selected for the current operation, exiting.
+\i (01:34:46) generaledit 
+\i (01:34:46) drag_stop grid 21.0813 22.1098
+\i (01:34:46) prepopup 21.1368 22.1029
+\i (01:34:47) pop dyn_option_select @:@Move 
+\i (01:34:47) move 
+\t (01:34:47) last pick:  21.1400 22.1000
+\t (01:34:47) last pick:  21.1400 22.1000
+\t (01:34:47) Element has no origin, using pick.
+\t (01:34:47) Pick new location for the element(s).
+\i (01:34:48) pick grid 21.0675 22.2347
+\t (01:34:48) last pick:  21.0700 22.2300
+\i (01:34:48) generaledit 
+\i (01:34:49) zoom out 1 
+\i (01:34:49) setwindow pcb
+\i (01:34:49) zoom out 21.2478 22.0404
+\i (01:34:49) trapsize 694
+\i (01:34:49) prepopup 23.0516 22.3041
+\i (01:34:50) pick grid 23.4401 22.8314
+\t (01:34:50) last pick:  23.4400 22.8300
+\i (01:34:50) zoom out 1 
+\i (01:34:50) setwindow pcb
+\i (01:34:50) zoom out 23.7038 22.2764
+\i (01:34:50) trapsize 1388
+\i (01:34:52) color192 
+\i (01:34:52) setwindow cvf.dialog
+\i (01:34:52) cvf layer_mode
+\i (01:34:53) setwindow pcb
+\i (01:34:53) generaledit 
+\i (01:34:54) setwindow cvf.dialog
+\i (01:34:54) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (01:34:55) cvf layers_visible stack-up stack-up/soldermask_top FALSE
+\i (01:34:56) cvf apply
+\i (01:34:57) cvf okay
+\i (01:34:57) setwindow pcb
+\i (01:34:57) zoom out 1 
+\i (01:34:57) setwindow pcb
+\i (01:34:57) zoom out 18.2925 13.6738
+\i (01:34:57) trapsize 2775
+\i (01:34:57) zoom out 1 
+\i (01:34:57) setwindow pcb
+\i (01:34:57) zoom out 18.2925 13.9513
+\i (01:34:57) trapsize 5550
+\i (01:34:58) zoom in 1 
+\i (01:34:58) setwindow pcb
+\i (01:34:58) zoom in 16.9605 15.7274
+\i (01:34:58) trapsize 2775
+\i (01:35:05) artwork 
+\w (01:35:05) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:35:06) fillin confirm
+\i (01:35:07) setwindow form.film_control
+\i (01:35:07) FORM film_control film_control  
+\i (01:35:12) FORM film_control filmtree  SPTOP 
+\i (01:35:14) FORM film_control filmtree  SSTOP 
+\i (01:35:17) FORM film_control filmtree popup Cut SSTOP 
+\i (01:35:18) FORM film_control filmtree  SPTOP 
+\i (01:35:19) FORM film_control filmtree popup Add SPTOP 
+\i (01:35:24) fillin "SSTOP"
+\i (01:35:25) FORM film_control filmtree  SSTOP 
+\i (01:35:25) FORM film_control filmtree  SPTOP 
+\i (01:35:27) FORM film_control filmtree  SSTOP 
+\i (01:35:30) FORM film_control undefined_line_width 0.3000 
+\i (01:35:31) FORM film_control ok  
+\i (01:35:31) setwindow pcb
+\i (01:35:31) generaledit 
+\i (01:35:33) artwork 
+\w (01:35:33) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:35:34) fillin confirm
+\i (01:35:35) setwindow form.film_control
+\i (01:35:35) FORM film_control film_control  
+\i (01:35:36) FORM film_control filmtree  SSTOP 
+\i (01:35:37) FORM film_control filmtree  SPTOP 
+\i (01:35:37) FORM film_control filmtree  SSTOP 
+\i (01:35:38) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:35:40) FORM film_control create  
+\t (01:35:40) Checking db records
+\t (01:35:40)     checking for orphans...
+\t (01:35:40)     Checked 100 percent
+\w (01:35:40) Run batch DRC to correctly regenerate DRC errs.
+
+\t (01:35:40) Done dbdoctor.
+\t (01:35:40) Starting Create artwork films...
+\w (01:35:40) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:35:41) Artwork generated with warnings.
+\i (01:35:42) setwindow text
+\i (01:35:42) close 
+\i (01:35:43) setwindow form.film_control
+\i (01:35:43) FORM film_control cancel  
+\i (01:35:43) setwindow pcb
+\i (01:35:43) generaledit 
+\i (01:37:05) zoom in 1 
+\i (01:37:05) setwindow pcb
+\i (01:37:05) zoom in 8.7464 27.2715
+\i (01:37:05) trapsize 1388
+\i (01:37:06) roam x -96 
+\i (01:37:06) roam x -96
+\i (01:37:06) roam y -96 
+\i (01:37:06) roam y -96
+\i (01:37:06) zoom in 1 
+\i (01:37:06) setwindow pcb
+\i (01:37:06) zoom in 8.7671 27.7014
+\i (01:37:06) trapsize 694
+\i (01:37:07) pick grid 8.7671 27.7291
+\t (01:37:07) last pick:  8.7700 27.7300
+\i (01:37:08) drag_start grid 8.7116 27.6320
+\i (01:37:08) move 
+\t (01:37:08) last pick:  8.6400 27.3200
+\t (01:37:08) Pick new location for the element(s).
+\i (01:37:12) drag_stop grid 10.1407 28.2425
+\i (01:37:12) generaledit 
+\i (01:37:13) color192 
+\i (01:37:13) setwindow cvf.dialog
+\i (01:37:13) cvf layer_mode
+\i (01:37:13) setwindow pcb
+\i (01:37:13) generaledit 
+\i (01:37:17) setwindow cvf.dialog
+\i (01:37:17) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (01:37:17) cvf apply
+\i (01:37:18) cvf okay
+\i (01:37:19) setwindow pcb
+\i (01:37:19) drag_start grid 10.3350 28.3258
+\i (01:37:19) move 
+\t (01:37:19) last pick:  10.1400 28.2400
+\t (01:37:19) Pick new location for the element(s).
+\i (01:37:20) drag_stop grid 9.5302 28.2009
+\i (01:37:20) generaledit 
+\i (01:37:20) roam x 96 
+\i (01:37:20) roam x 96
+\i (01:37:21) zoom out 1 
+\i (01:37:21) setwindow pcb
+\i (01:37:21) zoom out 15.6076 26.6608
+\i (01:37:21) trapsize 1388
+\i (01:38:58) zoom in 1 
+\i (01:38:58) setwindow pcb
+\i (01:38:58) zoom in 15.1080 23.4972
+\i (01:38:58) trapsize 694
+\i (01:38:59) drag_start grid 15.2606 23.5388
+\i (01:38:59) move 
+\t (01:38:59) last pick:  15.1300 23.2000
+\t (01:38:59) Pick new location for the element(s).
+\i (01:38:59) zoom out 1 
+\i (01:38:59) setwindow pcb
+\i (01:38:59) zoom out 14.6779 23.4140
+\i (01:38:59) trapsize 1388
+\i (01:39:02) drag_stop grid 14.2339 23.5804
+\i (01:39:02) generaledit 
+\i (01:39:04) drag_start grid 19.0624 25.6617
+\i (01:39:04) move 
+\t (01:39:04) last pick:  18.4500 25.5400
+\t (01:39:04) Pick new location for the element(s).
+\i (01:39:06) drag_stop grid 19.3954 25.2454
+\i (01:39:06) generaledit 
+\i (01:39:06) zoom out 1 
+\i (01:39:06) setwindow pcb
+\i (01:39:06) zoom out 18.7572 24.3297
+\i (01:39:06) trapsize 2775
+\i (01:39:06) zoom in 1 
+\i (01:39:06) setwindow pcb
+\i (01:39:06) zoom in 18.7572 24.2186
+\i (01:39:06) trapsize 1388
+\i (01:39:07) roam y 96 
+\i (01:39:07) roam y 96
+\i (01:39:07) roam y 96 
+\i (01:39:07) roam y 96
+\i (01:39:08) drag_start grid 17.7027 20.1811
+\i (01:39:08) move 
+\t (01:39:08) last pick:  18.0500 20.3500
+\t (01:39:08) Pick new location for the element(s).
+\i (01:39:11) drag_stop grid 18.0912 18.7381
+\i (01:39:11) generaledit 
+\i (01:39:12) roam x 96 
+\i (01:39:12) roam x 96
+\i (01:39:12) roam y 96 
+\i (01:39:12) roam y 96
+\i (01:39:13) roam y 96 
+\i (01:39:13) roam y 96
+\i (01:39:16) drag_start grid 30.1902 15.5469
+\i (01:39:16) move 
+\t (01:39:16) last pick:  30.5700 15.6700
+\t (01:39:16) Pick new location for the element(s).
+\i (01:39:17) drag_stop grid 32.1605 14.0484
+\i (01:39:17) generaledit 
+\i (01:39:17) drag_start grid 24.2795 14.2426
+\i (01:39:17) move 
+\t (01:39:17) last pick:  24.7200 14.2800
+\t (01:39:17) Pick new location for the element(s).
+\i (01:39:18) drag_stop grid 24.5570 14.0761
+\i (01:39:18) generaledit 
+\i (01:39:20) drag_start grid 28.1367 15.2694
+\i (01:39:20) move 
+\t (01:39:20) last pick:  28.4400 15.4500
+\t (01:39:20) Pick new location for the element(s).
+\i (01:39:20) drag_stop grid 28.5530 15.2694
+\i (01:39:21) generaledit 
+\i (01:39:21) roam x 96 
+\i (01:39:21) roam x 96
+\i (01:39:21) roam y -96 
+\i (01:39:21) roam y -96
+\i (01:39:22) roam y -96 
+\i (01:39:22) roam y -96
+\i (01:39:24) drag_start grid 26.1665 22.4289
+\i (01:39:24) move 
+\t (01:39:24) last pick:  26.9800 22.1500
+\t (01:39:24) Pick new location for the element(s).
+\i (01:39:25) drag_stop grid 30.5510 22.7619
+\i (01:39:25) generaledit 
+\i (01:39:26) drag_start grid 29.8850 20.1256
+\i (01:39:26) move 
+\t (01:39:26) last pick:  29.4600 20.0300
+\t (01:39:26) Pick new location for the element(s).
+\i (01:39:27) drag_stop grid 29.6630 20.4309
+\i (01:39:27) generaledit 
+\i (01:39:27) roam y -96 
+\i (01:39:27) roam y -96
+\i (01:39:28) roam y -96 
+\i (01:39:28) roam y -96
+\i (01:39:28) roam y -96 
+\i (01:39:28) roam y -96
+\i (01:39:30) drag_start grid 33.2705 34.9165
+\i (01:39:30) move 
+\t (01:39:30) last pick:  33.7900 34.8100
+\t (01:39:30) Pick new location for the element(s).
+\i (01:39:31) drag_stop grid 33.3815 34.9997
+\i (01:39:31) generaledit 
+\i (01:39:34) roam y 96 
+\i (01:39:34) roam y 96
+\i (01:39:34) roam x -96 
+\i (01:39:34) roam x -96
+\i (01:39:36) zoom in 1 
+\i (01:39:36) setwindow pcb
+\i (01:39:36) zoom in 12.5689 24.4824
+\i (01:39:36) trapsize 694
+\i (01:39:36) zoom in 1 
+\i (01:39:36) setwindow pcb
+\i (01:39:36) zoom in 13.7345 24.8571
+\i (01:39:36) trapsize 347
+\i (01:39:39) setwindow form.vf_vis
+\i (01:39:39) FORM vf_vis all_etch_visible YES 
+\i (01:39:42) setwindow pcb
+\i (01:39:42) zoom out 1 
+\i (01:39:42) setwindow pcb
+\i (01:39:42) zoom out 13.6513 24.7738
+\i (01:39:42) trapsize 694
+\i (01:39:48) zoom out 1 
+\i (01:39:48) setwindow pcb
+\i (01:39:48) zoom out 13.6235 23.9969
+\i (01:39:48) trapsize 1388
+\i (01:39:48) zoom in 1 
+\i (01:39:48) setwindow pcb
+\i (01:39:48) zoom in 13.5958 23.8581
+\i (01:39:48) trapsize 694
+\i (01:39:55) color192 
+\i (01:39:55) setwindow cvf.dialog
+\i (01:39:55) cvf layer_mode
+\i (01:39:55) setwindow pcb
+\i (01:39:55) generaledit 
+\i (01:40:00) setwindow cvf.dialog
+\i (01:40:00) cvf global_invisible
+\i (01:40:01) cvf apply
+\i (01:40:03) cvf layer_tree_item 'Areas'
+\i (01:40:04) cvf layer_tree_item 'Board Geometry'
+\i (01:40:04) cvf layer_tree_item 'Package Geometry'
+\i (01:40:05) cvf layer_tree_item 'Board Geometry'
+\i (01:40:07) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (01:40:07) cvf apply
+\i (01:40:09) cvf layer_tree_item 'Package Geometry'
+\i (01:40:11) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (01:40:12) cvf layer_tree_item 'Embedded Geomerty'
+\i (01:40:12) cvf layer_tree_item 'Components'
+\i (01:40:13) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (01:40:14) cvf apply
+\i (01:40:15) cvf okay
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out 14.5948 24.5935
+\i (01:40:15) trapsize 1388
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out 14.7336 24.8154
+\i (01:40:15) trapsize 2775
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out 15.3442 25.3704
+\i (01:40:15) trapsize 5550
+\i (01:40:15) zoom in 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom in 16.0103 25.8145
+\i (01:40:16) trapsize 2775
+\i (01:40:17) artwork 
+\w (01:40:17) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:40:18) fillin confirm
+\i (01:40:19) setwindow form.film_control
+\i (01:40:19) FORM film_control film_control  
+\i (01:40:20) FORM film_control filmtree  SSTOP 
+\i (01:40:22) FORM film_control filmtree popup Cut SSTOP 
+\i (01:40:24) FORM film_control filmtree popup Add TOP 
+\i (01:40:27) fillin "SSTOP"
+\i (01:40:29) FORM film_control filmtree  SSTOP 
+\i (01:40:33) FORM film_control undefined_line_width 0.3000 
+\i (01:40:33) FORM film_control ok  
+\i (01:40:33) setwindow pcb
+\i (01:40:33) generaledit 
+\i (01:40:35) artwork 
+\w (01:40:35) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (01:40:36) fillin confirm
+\i (01:40:37) setwindow form.film_control
+\i (01:40:37) FORM film_control film_control  
+\i (01:40:37) FORM film_control filmtree  SSTOP 
+\i (01:40:41) FORM film_control create  
+\w (01:40:41) No film records selected.
+\i (01:40:44) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (01:40:45) FORM film_control create  
+\t (01:40:45) Checking db records
+\t (01:40:45)     checking for orphans...
+\t (01:40:45)     Checked 100 percent
+\w (01:40:45) Run batch DRC to correctly regenerate DRC errs.
+
+\t (01:40:45) Done dbdoctor.
+\t (01:40:45) Starting Create artwork films...
+\w (01:40:45) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:40:46) Artwork generated with warnings.
+\i (01:40:47) setwindow text
+\i (01:40:47) close 
+\i (01:40:48) setwindow form.film_control
+\i (01:40:48) FORM film_control cancel  
+\i (01:40:48) setwindow pcb
+\i (01:40:48) generaledit 
+\i (01:45:19) color192 
+\i (01:45:20) setwindow cvf.dialog
+\i (01:45:20) cvf layer_mode
+\i (01:45:20) setwindow pcb
+\i (01:45:20) generaledit 
+\i (01:45:22) setwindow cvf.dialog
+\i (01:45:22) cvf global_visible
+\i (01:45:23) cvf apply
+\i (01:45:24) cvf okay
+\i (01:45:24) setwindow pcb
+\i (01:45:24) zoom in 1 
+\i (01:45:24) setwindow pcb
+\i (01:45:24) zoom in 15.7328 24.3715
+\i (01:45:24) trapsize 1388
+\i (01:45:24) zoom in 1 
+\i (01:45:24) setwindow pcb
+\i (01:45:24) zoom in 15.7328 24.3715
+\i (01:45:24) trapsize 694
+\i (01:45:26) zoom in 1 
+\i (01:45:26) setwindow pcb
+\i (01:45:26) zoom in 13.5822 24.3716
+\i (01:45:26) trapsize 347
+\i (01:45:28) setwindow form.find
+\i (01:45:28) FORM find all_off  
+\i (01:45:29) FORM find vias YES 
+\i (01:45:30) setwindow pcb
+\i (01:45:30) pick grid 13.6169 24.3716
+\t (01:45:30) last pick:  13.6200 24.3700
+\i (01:45:30) prepopup 13.6099 24.3785
+\i (01:45:34) pop dyn_option_select @:@Slide 
+\i (01:45:34) slide 
+\t (01:45:34) Waiting for the destination pick.
+\i (01:45:37) zoom out 1 
+\i (01:45:37) setwindow pcb
+\i (01:45:37) zoom out 14.4702 24.7948
+\i (01:45:37) trapsize 694
+\i (01:45:39) zoom in 1 
+\i (01:45:39) setwindow pcb
+\i (01:45:39) zoom in 14.0262 24.7254
+\i (01:45:39) trapsize 347
+\i (01:45:41) zoom out 1 
+\i (01:45:41) setwindow pcb
+\i (01:45:41) zoom out 14.0401 24.6074
+\i (01:45:41) trapsize 694
+\i (01:45:51) prepopup 13.8874 24.8989
+\i (01:45:52) cancel 
+\i (01:45:52) generaledit 
+\i (01:45:54) undo 
+\i (01:45:54) trapsize 347
+\i (01:45:54) generaledit 
+\i (01:45:54) undo 
+\i (01:45:54) generaledit 
+\i (01:45:54) undo 
+\i (01:45:55) generaledit 
+\i (01:45:55) undo 
+\i (01:45:55) generaledit 
+\i (01:45:55) undo 
+\i (01:45:55) generaledit 
+\i (01:45:55) undo 
+\i (01:45:55) generaledit 
+\i (01:45:56) zoom out 1 
+\i (01:45:56) setwindow pcb
+\i (01:45:56) zoom out 14.5188 25.6134
+\i (01:45:56) trapsize 694
+\i (01:45:56) zoom out 1 
+\i (01:45:56) setwindow pcb
+\i (01:45:56) zoom out 14.5187 25.6134
+\i (01:45:56) trapsize 1388
+\i (01:45:56) zoom out 1 
+\i (01:45:56) setwindow pcb
+\i (01:45:56) zoom out 14.7407 26.0574
+\i (01:45:56) trapsize 2775
+\i (01:45:57) zoom out 1 
+\i (01:45:57) setwindow pcb
+\i (01:45:57) zoom out 14.8518 25.7799
+\i (01:45:57) trapsize 5550
+\i (01:47:58) zoom in 1 
+\i (01:47:58) setwindow pcb
+\i (01:47:58) zoom in 10.1899 17.8988
+\i (01:47:58) trapsize 2775
+\i (01:47:58) zoom in 1 
+\i (01:47:58) setwindow pcb
+\i (01:47:58) zoom in 9.3019 18.3429
+\i (01:47:58) trapsize 1388
+\i (01:47:58) zoom in 1 
+\i (01:47:58) setwindow pcb
+\i (01:47:58) zoom in 9.2742 18.3429
+\i (01:47:58) trapsize 694
+\i (01:47:58) zoom in 1 
+\i (01:47:58) setwindow pcb
+\i (01:47:58) zoom in 9.2742 18.3429
+\i (01:47:58) trapsize 347
+\i (01:47:59) zoom in 1 
+\i (01:47:59) setwindow pcb
+\i (01:47:59) zoom in 9.2742 18.3429
+\i (01:47:59) trapsize 173
+\i (01:48:00) zoom out 1 
+\i (01:48:00) setwindow pcb
+\i (01:48:00) zoom out 9.2743 18.3429
+\i (01:48:00) trapsize 347
+\i (01:48:00) zoom out 1 
+\i (01:48:00) setwindow pcb
+\i (01:48:00) zoom out 9.2742 18.3429
+\i (01:48:00) trapsize 694
+\i (01:48:03) cns show 
+\i (01:48:03) cns show 
+\i (01:48:04) color192 
+\i (01:48:04) setwindow cvf.dialog
+\i (01:48:04) cvf layer_mode
+\i (02:07:22) setwindow pcb
+\i (02:07:22) exit 
+\e (02:07:22) Do you want to save the changes you made to C:/Users/David/OneDrive/Desktop/P1_2025_431B_Mutuleasa_David_Andrei_/Schematic/allegro/SCH_TRANSFER.brd?
+\i (02:07:24) fillin no 
+\t (02:07:25)     Journal end - Mon Dec 08 22:53:57 2025

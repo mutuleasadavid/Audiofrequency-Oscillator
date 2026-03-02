@@ -1,0 +1,6 @@
+ lib=C:\Cadence\SPB_17.2\tools\capture\library\pspice\SMLS14BET.lib, offset=135, size=131
+ lib=C:\Cadence\SPB_17.2\tools\capture\library\pspice\MMBFJ309LT1G.lib, offset=497, size=174
+ lib=C:\Cadence\SPB_17.2\tools\capture\library\pspice\BC856B.lib, offset=475, size=781
+ lib=C:\Cadence\SPB_17.2\tools\capture\library\pspice\BC846B.lib, offset=476, size=771
+ lib=C:\Cadence\SPB_17.2\tools\capture\library\pspice\1N4148.lib, offset=400, size=375
+ lib=C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice\Library\breakout.lib, offset=9106, size=133

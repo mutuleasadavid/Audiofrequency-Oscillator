@@ -1,0 +1,510 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Dec-01-2025 at 15:37:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SCH_TRANSFER';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_4.7N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10444@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10444@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10444@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2008X126N_0805_10N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10460@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10460@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10460@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2008X126N_0805_33N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9772@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9772@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9772@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC2008X126N_0805_10U':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10024@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10024@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10024@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPC2008X126N_0805_4.7N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10428@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10428@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10428@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPC2008X126N_0805_10N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10476@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10476@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10476@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAPC2008X126N_0805_33N':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9796@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9796@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9796@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_CAPC2008X126N_0805_10U':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9606@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9606@analog.\c.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9606@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'SMLS14BET_0_DIOM2012X160M_SMLS1':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10080@SCH_TRANSFER.SMLS14BET_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10080@sch_transfer.\smls14bet_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10080@sch_transfer.\smls14bet_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'SMLS14BET_0_DIOM2012X160M_SMLS1':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10100@SCH_TRANSFER.SMLS14BET_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10100@sch_transfer.\smls14bet_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10100@sch_transfer.\smls14bet_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON1_SMD_PAD_3-05_1-80_VC5':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS18456@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins18456@connector.\con1.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins18456@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON1_SMD_PAD_3-05_1-80_GND':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS18189@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins18189@connector.\con1.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins18189@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_TS53YL_10K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10310@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10310@breakout.\pot.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10310@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'POT_TS53YL_100K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9566@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9566@breakout.\pot.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9566@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P3 'POT_TS53YL_10K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9904@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9904@breakout.\pot.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9904@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P4 'POT_TS53YL_10K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10280@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10280@breakout.\pot.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10280@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'QBC856B_0_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9026@SCH_TRANSFER.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9026@sch_transfer.\qbc856b_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9026@sch_transfer.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'QBC856B_0_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS8974@SCH_TRANSFER.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins8974@sch_transfer.\qbc856b_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins8974@sch_transfer.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'QBC856B_0_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9000@SCH_TRANSFER.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9000@sch_transfer.\qbc856b_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9000@sch_transfer.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'QBC856B_0_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS8948@SCH_TRANSFER.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins8948@sch_transfer.\qbc856b_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins8948@sch_transfer.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'QBC846B_2_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS8844@SCH_TRANSFER.QBC846B_2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins8844@sch_transfer.\qbc846b_2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins8844@sch_transfer.\qbc846b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'QBC846B_1_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS8870@SCH_TRANSFER.QBC846B_1.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins8870@sch_transfer.\qbc846b_1.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins8870@sch_transfer.\qbc846b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'QBC846B_4_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS8922@SCH_TRANSFER.QBC846B_4.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins8922@sch_transfer.\qbc846b_4.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins8922@sch_transfer.\qbc846b_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'JMMBFJ309LT1_0_TO236AA_JMMBFJ30':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9512@SCH_TRANSFER.JMMBFJ309LT1_0.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9512@sch_transfer.\jmmbfj309lt1_0.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9512@sch_transfer.\jmmbfj309lt1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9728@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9728@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9728@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_47K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9860@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9860@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9860@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9750@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9750@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9750@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9092@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9092@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9092@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9112@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9112@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9112@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9882@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9882@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9882@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10400@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10400@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10400@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES2012X50N_0805_2K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9974@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9974@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9974@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9132@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9132@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9132@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES2012X50N_0805_2K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9700@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9700@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9700@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10120@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10120@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10120@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9394@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9394@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9394@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RES2012X50N_0805_820':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS20408@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins20408@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins20408@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9052@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9052@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9052@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9072@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9072@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9072@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10378@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10378@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10378@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS10140@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins10140@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins10140@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9374@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9374@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9374@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES2012X50N_0805_2.7K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9468@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9468@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9468@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9490@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9490@analog.\r.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9490@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '1N4148_2_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9316@SCH_TRANSFER.1N4148_2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9316@sch_transfer.\1n4148_2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9316@sch_transfer.\1n4148_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '1N4148_2_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9336@SCH_TRANSFER.1N4148_2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9336@sch_transfer.\1n4148_2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9336@sch_transfer.\1n4148_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 '1N4148_2_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS9654@SCH_TRANSFER.1N4148_2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins9654@sch_transfer.\1n4148_2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins9654@sch_transfer.\1n4148_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VCC+1 'CON2_1210RF_WV_12D_J5':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS11134@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins11134@connector.\con2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins11134@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VCC-1 'CON2_1210RF_WV_12D_J4':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS11118@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins11118@connector.\con2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins11118@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VOUT1 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@SCH_TRANSFER.SCHEMATIC1(SCH_1):INS17887@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@sch_transfer.schematic1(sch_1):ins17887@connector.\con2.normal\(chips)',
+ P_PATH='@sch_transfer.schematic1(sch_1):page1_ins17887@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,148 @@
+\t (00:00:02) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:02)     Journal start - Mon Dec 08 19:45:58 2025
+\t (00:00:02)         Host=DESKTOP-20R9FQ2 User=David Pid=11040 CPUs=16
+\t (00:00:02) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/David/OneDrive/Desktop/finalversioncef/allegro/SCH_TRANSFER.brd
+\i (00:00:02) trapsize 6483
+\i (00:00:02) trapsize 6332
+\i (00:00:02) trapsize 6509
+\i (00:00:02) trapsize 5550
+\i (00:00:02) trapsize 5550
+\i (00:00:03) generaledit 
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 7.8380 11.0313
+\i (00:01:02) trapsize 2775
+\i (00:01:05) setwindow form.vf_vis
+\i (00:01:05) FORM vf_vis all_pin_visible YES 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 3.0650 10.0324
+\i (00:01:06) trapsize 1388
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 4.0363 11.4199
+\i (00:01:10) trapsize 2775
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:13) roam y -96 
+\i (00:01:13) roam y -96
+\i (00:01:14) roam y 96 
+\i (00:01:14) roam y 96
+\i (00:01:14) roam y 96 
+\i (00:01:14) roam y 96
+\i (00:01:14) roam y -96 
+\i (00:01:14) roam y -96
+\i (00:04:00) pick grid 3.6478 11.7175
+\t (00:04:00) last pick:  3.6500 11.7200
+\i (00:04:01) prepopup 3.7033 11.7175
+\i (00:04:03) pop dyn_option_select 'Modify design padstack@:@Single instance' 
+\i (00:04:03) mod padstack 
+\i (00:04:05) setwindow form.padedit
+\i (00:04:05) FORM padedit layers  
+\i (00:04:05) FORM padedit grid row top 
+\i (00:04:45) pse_exit
+\i (00:04:46) setwindow pcb
+\i (00:04:46) generaledit 
+\i (00:04:49) pick grid 6.3118 30.5876
+\t (00:04:49) last pick:  6.3100 30.5900
+\i (00:04:50) prepopup 6.3673 30.5876
+\i (00:04:52) pop dyn_option_select 'Modify design padstack@:@Single instance' 
+\i (00:04:52) mod padstack 
+\w (00:04:52) Padstack name will be truncated to conform to current 31 character limit.
+Set "allegro_long_name_size" to support up to 255 character names.
+\i (00:04:56) fillin confirm
+\i (00:04:59) setwindow form.padedit
+\i (00:04:59) FORM padedit parameters  
+\i (00:04:59) FORM padedit layers  
+\i (00:05:00) FORM padedit grid row top 
+\i (00:05:43) pse_exit
+\i (00:05:43) setwindow pcb
+\i (00:05:43) generaledit 
+\i (00:05:44) zoom out 1 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom out 37.1699 21.9851
+\i (00:05:44) trapsize 5550
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in 41.8320 15.2140
+\i (00:05:45) trapsize 2775
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in 38.3355 15.7691
+\i (00:05:45) trapsize 1388
+\i (00:05:46) zoom in 1 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom in 38.2523 15.5749
+\i (00:05:46) trapsize 694
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out 37.8915 15.7691
+\i (00:05:47) trapsize 1388
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out 37.5308 15.6304
+\i (00:05:47) trapsize 2775
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out 24.5994 13.6324
+\i (00:05:47) trapsize 5550
+\i (00:05:48) zoom in 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom in 23.4893 23.4005
+\i (00:05:48) trapsize 2775
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 23.4894 23.4006
+\i (00:05:48) trapsize 5550
+\i (00:05:49) zoom in 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom in 23.3783 22.8455
+\i (00:05:49) trapsize 2775
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 23.6004 22.6236
+\i (00:05:49) trapsize 5550
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in 23.6003 22.1795
+\i (00:05:50) trapsize 2775
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 23.6559 22.0131
+\i (00:05:50) trapsize 5550
+\i (00:05:51) zoom in 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom in 23.9888 22.7900
+\i (00:05:51) trapsize 2775
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out 24.0444 22.7346
+\i (00:05:51) trapsize 5550
+\i (00:05:52) zoom in 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom in 22.6013 8.8595
+\i (00:05:52) trapsize 2775
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 22.6014 8.7485
+\i (00:05:53) trapsize 1388
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 22.6014 8.7486
+\i (00:05:53) trapsize 2775
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 23.9335 15.1866
+\i (00:05:54) trapsize 5550
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in 22.7124 38.7186
+\i (00:05:55) trapsize 2775
+\i (00:05:57) exit 
+\t (00:05:58)     Journal end - Mon Dec 08 19:51:54 2025

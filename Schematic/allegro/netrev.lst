@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SCH_TRANSFER.brd                              )
+(    Software Version : 16.6-2015S059                                 )
+(    Date/Time        : Tue Dec 02 19:23:25 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\DAVID\ONEDRIVE\DESKTOP\FINALVERSIONCEF\allegro'
+Design Directory:            'C:/Users/David/OneDrive/Desktop/finalversioncef/allegro'
+Old design name:             'C:/Users/David/OneDrive/Desktop/finalversioncef/allegro/SCH_TRANSFER.brd'
+New design name:             'C:/Users/David/OneDrive/Desktop/finalversioncef/allegro/SCH_TRANSFER.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\DAVID\ONEDRIVE\DESKTOP\FINALVERSIONCEF\allegro C:\Users\David\OneDrive\Desktop\finalversioncef\allegro\SCH_TRANSFER.brd C:\Users\David\OneDrive\Desktop\finalversioncef\allegro\SCH_TRANSFER.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstchip.dat 
+   Finished reading C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstxprt.dat 
+   Finished reading C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstxnet.dat 
+   Finished reading C:/USERS/DAVID/ONEDRIVE/DESKTOP/FINALVERSIONCEF/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/symbols 
+           C:/OrCAD/OrCAD_16.6_Lite/share/pcb/pcb_lib/symbols 
+           C:/OrCAD/OrCAD_16.6_Lite/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/padstacks 
+           C:/OrCAD/OrCAD_16.6_Lite/share/pcb/pcb_lib/symbols 
+           C:/OrCAD/OrCAD_16.6_Lite/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 2 19:23:25 2025
+   DESIGN NAME : 'SCH_TRANSFER'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:21
+elapsed time  0:00:00
+

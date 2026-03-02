@@ -1,0 +1,116 @@
+
+**** 11/17/25 17:41:21 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias_point"  [ C:\Users\David\OneDrive\Desktop\finalversioncef\circuit-PSpiceFiles\SCHEMATIC1\bias_point.sim
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias_point.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\David\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source CIRCUIT
+Q_Q1         N00311 N00464 N00480 QBC846B 
+Q_Q2         N00287 N01092 N00476 QBC846B 
+Q_Q3         N00488 N00766 N00502 QBC846B 
+Q_Q4         N00460 N03016 N03053 QBC846B 
+Q_Q5         N01322 N00311 N00460 QBC856B 
+Q_Q6         N00311 N00287 N00339 QBC856B 
+Q_Q7         N00287 N00287 N00343 QBC856B 
+Q_Q8         N00464 N00841 N00923 QBC856B 
+R_R1         N00339 N00460  100 TC=0,0 
+R_R2         N00343 N00460  100 TC=0,0 
+R_R3         N00488 N00480  100 TC=0,0 
+R_R4         N00488 N00476  100 TC=0,0 
+R_R5         N00506 N00502  100 TC=0,0 
+R_R6         N00766 0  10k TC=0,0 
+X_U1         N00770 N00506 1N4148 
+X_U2         N00766 N00770 1N4148 
+X_U3         N00460 N03786 1N4148 
+X_U4         N03786 N00841 1N4148 
+R_R7         0 N00841  22k TC=0,0 
+R_R8         N00923 N00460  100k TC=0,0 
+R_R9         N01092 N01322  2.7k TC=0,0 
+R_R10         N02230 N01092  1k TC=0,0 
+J_Q9         0 N01175 N02230 JMMBFJ309LT1 
+X_P3         N01179 N01175 0 POT PARAMS: SET=0.7 VALUE=100k
+C_C1         0 N01179  10u  TC=0,0 
+X_U5         N01179 N01322 1N4148 
+R_R11         N00506 N01322  2k TC=0,0 
+R_R12         N01671 N01322  510 TC=0,0 
+R_R13         N01654 N01671  4.7k TC=0,0 
+R_R14         N01755 N00464  510 TC=0,0 
+R_R15         N01742 N01755  4.7k TC=0,0 
+X_P2         N01742 N01742 0 POT PARAMS: SET=0.5 VALUE=50k
+X_P1         N01654 N01654 N01690 POT PARAMS: SET=0.5 VALUE=50k
+C_C2         N00464 N01690  10n  TC=0,0 
+C_C3         0 N00464  10n  TC=0,0 
+R_R16         N020011 N01322  47k TC=0,0 
+R_R17         N02165 N020011  15k TC=0,0 
+X_P4         0 N03016 N02165 POT PARAMS: SET=0.5 VALUE=10k
+R_R18         N00506 N03053  2k TC=0,0 
+C_C4         N03053 N03159  10u  TC=0,0 
+R_RL         0 N03159  820 TC=0,0 
+D_D1         N00460 N032970 SMLS14BET 
+D_D2         0 N033130 SMLS14BET 
+R_R19         N00506 N033130  1k TC=0,0 
+R_R20         0 N032970  1k TC=0,0 
+V_V1         N00460 0 13Vdc
+V_V2         0 N00506 13Vdc
+
+**** RESUMING bias_point.cir ****
+.END
+
+ERROR(ORPSIM-15113): Model SMLS14BET used by D_D1 is undefined
+
+ERROR(ORPSIM-15113): Model SMLS14BET used by D_D2 is undefined
+
+ERROR(ORPSIM-15113): Model JMMBFJ309LT1 used by J_Q9 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q1 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q2 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q3 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q4 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q5 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q6 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q7 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q8 is undefined
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U1 is undefined
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U2 is undefined
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U3 is undefined
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U4 is undefined
+
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U5 is undefined
+
